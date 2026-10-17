@@ -1,0 +1,643 @@
+product_id,title,sub_category,price,original_price,discount_amount,discount_type,rating,review_count
+126,"Duracell Coppertop Alkaline AA Batteries, 40-count",Batteries,20.99,20.99,0.0,No Discount,,0
+127,"Duracell Coppertop Alkaline AAA Batteries, 40-count",Batteries,20.99,20.99,0.0,No Discount,,0
+124,"Duracell 9V Alkaline Batteries, 8-count",Batteries,20.99,20.99,0.0,No Discount,,0
+125,"Duracell C Alkaline Batteries, 14-count",Batteries,18.99,18.99,0.0,No Discount,,0
+123,"Duracell 2032 Lithium Coin Batteries, 12-count",Batteries,14.99,14.99,0.0,No Discount,4.8,125
+128,"Duracell D Alkaline Batteries, 14-count",Batteries,18.99,18.99,0.0,No Discount,,0
+206,Jackery Explorer 550 Portable Power Station,Batteries,299.99,299.99,0.0,Limited Time Price,,0
+205,Jackery Explorer 2000 Pro Portable Power Station,Batteries,1149.99,1149.99,0.0,Limited Time Price,,0
+136,GoPro HERO11 Black Action Camera Bundle,Cameras & Camcorders,289.99,289.99,0.0,Limited Time Price,4.2,238
+202,Insta360 X3 - 5.7K 360° Action Camera Adventure Bundle,Cameras & Camcorders,399.99,399.99,0.0,Limited Time Price,4.4,99
+94,DJI Mini 3 Drone Aerial Camera Bundle,Cameras & Camcorders,429.99,429.99,0.0,No Discount,4.4,115
+135,GoPro HERO10 Black Action Camera Bundle,Cameras & Camcorders,239.97,239.97,0.0,No Discount,4.1,311
+201,Insta360 GO 3 Action Camera Bundle,Cameras & Camcorders,349.99,349.99,0.0,Limited Time Price,3.6,11
+95,DJI Mini 3 Pro Drone Bundle,Cameras & Camcorders,839.99,839.99,0.0,No Discount,4.5,418
+68,Autel Robotics - EVO Lite+ Premium Bundle - Drone with Remote Controller (Android and iOS Compatible) - Orange,Cameras & Camcorders,849.99,849.99,0.0,No Discount,4.3,49
+265,Lenovo IdeaCentre 3i Desktop - 13th Gen Intel Core i5-13400 - Windows 11,Desktop Computers & PCs,649.99,649.99,0.0,No Discount,4.5,128
+119,Dell XPS Tower - 13th Gen Intel Core i7-13700 - GeForce RTX 4060Ti - Windows 11  ,Desktop Computers & PCs,1699.99,2099.99,400.0,Dollars Off,5.0,4
+313,"Mac mini – Apple M2 Chip 8-core CPU, 10-core GPU – 8GB Memory – 256GB SSD –  Silver",Desktop Computers & PCs,579.99,579.99,0.0,No Discount,4.7,186
+109,"Dell Inspiron 27"" 7000 Series All-in-One Touchscreen Desktop - 13th Gen Intel Core i7-1355U - GeForce MX550 - 1080p - Windows 11",Desktop Computers & PCs,999.99,1499.99,500.0,Dollars Off,4.5,169
+158,"HP 23.8"" Touchscreen All-in-One Desktop - AMD Ryzen 5 7520U - 1080p - Windows 11",Desktop Computers & PCs,599.99,799.99,200.0,Dollars Off,4.7,27
+112,Dell Inspiron Desktop - 13th Gen Intel Core i7-13700 - GeForce RTX 3060 - Windows 11,Desktop Computers & PCs,1399.99,1399.99,0.0,No Discount,4.5,74
+116,Dell Inspiron Small Form Desktop - 13th Gen Intel Core i5-13400 - Windows 11 Pro,Desktop Computers & PCs,599.99,599.99,0.0,No Discount,3.7,20
+315,"Mac mini – Apple M2 Pro Chip 10-core CPU, 16-core GPU – 16GB Memory – 512GB SSD –  Silver",Desktop Computers & PCs,1249.99,1249.99,0.0,No Discount,4.7,129
+167,HP ENVY Desktop - 13th Gen Intel Core i7-13700 - Windows 11 Professional,Desktop Computers & PCs,1099.99,1099.99,0.0,No Discount,4.5,215
+93,"CyberPowerPC Gamer Xtreme Gaming Desktop - 13th Gen Intel Core i5-13400F -  GeForce RTX 4060, Black",Desktop Computers & PCs,999.99,999.99,0.0,No Discount,4.5,99
+22,Acer Aspire Desktop – 13th Gen Intel Core i5-13400 – Windows 11,Desktop Computers & PCs,499.99,649.99,150.0,Dollars Off,4.5,35
+298,MSI Aegis R Gaming Desktop - 13th Gen Intel Core i7-13700F -  GeForce RTX 4070 - Windows 11,Desktop Computers & PCs,1599.99,1899.99,300.0,Dollars Off,4.4,106
+311,"Mac Studio: Apple M2 Max chip with 12‑core CPU, 30‑core GPU, 512GB SSD ",Desktop Computers & PCs,1949.99,1949.99,0.0,No Discount,5.0,15
+314,"Mac mini – Apple M2 Chip 8-core CPU, 10-core GPU – 8GB Memory – 512GB SSD –  Silver",Desktop Computers & PCs,769.99,769.99,0.0,No Discount,4.7,137
+11,ASUS ROG Strix Gaming Desktop - 13th Gen Intel Core  i7-13700F - NVIDIA GeForce RTX 4060 - Windows 11 Home,Desktop Computers & PCs,1449.99,1449.99,0.0,No Discount,,0
+182,HP Victus Gaming Desktop – 13th Gen Intel Core i7-13700F GeForce RTX 4060 – Window 11 ,Desktop Computers & PCs,1299.99,1299.99,0.0,No Discount,4.3,7
+312,"Mac Studio: Apple M2 Ultra chip with 24‑core CPU, 60‑core GPU, 1TB SSD",Desktop Computers & PCs,3799.99,3799.99,0.0,No Discount,5.0,8
+536,"iMac (23.5-inch) - Apple M3 chip with 8GB Memory, 8-core CPU and 8-core GPU, 256GB SSD",Desktop Computers & PCs,1249.99,1249.99,0.0,No Discount,4.7,29
+159,"HP 27"" All-in-One Touchscreen Desktop - 13th Gen Intel Core i7-1355U - 1080p - Windows 11",Desktop Computers & PCs,1099.99,1199.99,100.0,Dollars Off,4.7,100
+538,"iMac (24-inch) - Apple M3 chip with 8GB Memory, 8-core CPU and 10-core GPU, 512GB SSD ",Desktop Computers & PCs,1649.99,1649.99,0.0,No Discount,4.7,16
+533,iBUYPOWER SlateMesh Gaming Desktop- 13th Gen Intel Core i7 - 13700F - GeForce RTX 4060 - Windows 11,Desktop Computers & PCs,1299.99,1299.99,0.0,No Discount,4.3,53
+110,Dell Inspiron Desktop - 13th Gen Intel Core i5-13400 - Windows 11 ,Desktop Computers & PCs,599.99,749.99,150.0,Dollars Off,4.3,169
+157,"HP 23.8"" Touchscreen All-in-One Desktop - AMD Ryzen 3 7320U - 1080p - Windows 11",Desktop Computers & PCs,449.99,449.99,0.0,No Discount,4.5,90
+40,"Apple Magic Mouse, Black ",Desktop Computers & PCs,94.99,94.99,0.0,No Discount,4.8,81
+264,"Lenovo IdeaCentre 27"" All-in-One Touchscreen Desktop - 13th Gen Intel Core i7-13620H - 1080p - Windows 11",Desktop Computers & PCs,999.99,999.99,0.0,No Discount,4.5,103
+537,"iMac (24-inch) - Apple M3 chip with 8GB Memory, 8-core CPU and 10-core GPU, 256GB SSD",Desktop Computers & PCs,1449.99,1449.99,0.0,No Discount,4.5,8
+464,Skytech Chronos Mini Gaming Desktop - 13th Gen Intel Core i5-13400F - GeForce RTX 4060,Desktop Computers & PCs,899.99,899.99,0.0,No Discount,5.0,1
+172,HP OMEN 45L Gaming Desktop - 13th Gen Intel Core i9-13900KF - GeForce RTX 4070 Ti - Windows 11,Desktop Computers & PCs,2499.99,2899.99,400.0,Dollars Off,4.5,13
+299,MSI Aegis R Gaming Desktop - 13th Gen Intel Core i7-13700F - GeForce RTX 4060Ti - Windows 11 ,Desktop Computers & PCs,1599.99,1599.99,0.0,No Discount,4.5,33
+160,"HP 27"" Touchscreen All-in-One Desktop - AMD Ryzen 7 5700U - 1080p - Windows 11",Desktop Computers & PCs,699.99,699.99,0.0,No Discount,4.5,83
+178,HP Pavilion Desktop - AMD Ryzen 5 5600G - Windows 11,Desktop Computers & PCs,599.99,599.99,0.0,No Discount,4.5,315
+540,"iMac 24"" with Retina 4.5K Display - Apple M1 Chip 8-Core CPU, 8-Core GPU - 8GB Memory - 256GB SSD",Desktop Computers & PCs,999.97,999.97,0.0,No Discount,4.7,338
+108,"Dell Inspiron 23.8"" All-in-One Touchscreen Desktop - AMD Ryzen 5 7530U - 1080p - Windows 11",Desktop Computers & PCs,699.99,799.99,100.0,Dollars Off,4.8,19
+156,"HP 23.8"" All-in-One Touchscreen Desktop - AMD Ryzen 5 7520U - 1080p - Windows 11",Desktop Computers & PCs,849.99,849.99,0.0,No Discount,4.7,54
+117,Dell XPS Tower - 13th Gen Intel Core i7-13700 - GeForce RTX 3060Ti - Windows 11  ,Desktop Computers & PCs,1699.97,1699.97,0.0,No Discount,4.4,47
+541,"iMac 24"" with Retina 4.5K Display - Apple M1 Chip 8-Core CPU, 8-Core GPU - 8GB Memory - 512GB SSD ",Desktop Computers & PCs,1299.97,1299.97,0.0,No Discount,4.7,791
+111,Dell Inspiron Desktop - 13th Gen Intel Core i7-13700 - GeForce GTX 1660 SUPER - Windows 11,Desktop Computers & PCs,1299.99,1299.99,0.0,No Discount,4.1,10
+534,iBUYPOWER Y40 Gaming Desktop 13th Gen Intel Core i9-13900KF - GeForce RTX 4080 - Windows 11,Desktop Computers & PCs,2899.99,2899.99,0.0,No Discount,4.2,34
+535,iBUYPOWER Y60 Gaming Desktop 13th Gen Intel Core i9-13900KF - GeForce RTX 4070Ti - Windows 11,Desktop Computers & PCs,2499.99,2499.99,0.0,No Discount,4.2,32
+120,Dell XPS Tower - 13th Gen Intel Core i7-13700 - Windows 11 Home,Desktop Computers & PCs,699.99,849.99,150.0,Dollars Off,3.8,22
+461,Skytech Blaze 3 Gaming Desktop - 12th Gen Intel Core i7-12700F - GeForce RTX 4060Ti - Windows 11,Desktop Computers & PCs,1299.99,1299.99,0.0,No Discount,,0
+161,"HP 31.5"" All-in-One Desktop - 13th Gen Intel Core i7-13700T - GeForce RTX 3050 - 2560 x 1440 - Windows 11",Desktop Computers & PCs,1599.99,1799.99,200.0,Dollars Off,4.4,55
+294,"MSI 23.8"" Modern All-in-One Touchscreen Desktop - 12th Gen Intel Core i7-1260P - 1080p - Windows 11",Desktop Computers & PCs,899.99,899.99,0.0,No Discount,4.6,17
+87,"CYBERPOWERPC Gamer Supreme Liquid Cooled Gaming Tower - Intel Core i7-13700KF 16-Core - GeForce RTX 4070, 12GB",Desktop Computers & PCs,1699.99,1699.99,0.0,No Discount,4.3,6
+107,"Dell Inspiron 23.8"" All-in-One Touchscreen Desktop - 13th Gen Intel Core i7-1355U - 1080p - Windows 11",Desktop Computers & PCs,999.99,999.99,0.0,No Discount,4.5,159
+155,"HP 23.8"" All-in-One Touchscreen Desktop - 13th Gen Intel Core i7-1355U - 1080p - Windows 11",Desktop Computers & PCs,949.99,1099.99,150.0,Dollars Off,4.7,54
+532,iBUYPOWER SlateMRA7N36T01 Gaming Desktop - AMD Ryzen 7 5700 - GeForce RTX 3060Ti - Windows 11,Desktop Computers & PCs,1299.99,1299.99,0.0,No Discount,4.5,6
+463,Skytech Chronos Gaming Desktop - 12th Gen Intel Core i7-12700F - GeForce RTX 4070,Desktop Computers & PCs,1699.99,1699.99,0.0,No Discount,4.5,12
+113,Dell Inspiron Desktop - 13th Gen Intel Core i7-13700F - GeForce GTX 1660 SUPER - Windows 11,Desktop Computers & PCs,1199.99,1199.99,0.0,No Discount,4.0,39
+39,Apple Magic Keyboard with Touch ID and Numeric Keypad ,Desktop Computers & PCs,189.99,189.99,0.0,No Discount,4.6,28
+460,Skytech Azure2 Gaming Desktop - 12th Gen Intel Core i9-12900F - GeForce RTX 4080,Desktop Computers & PCs,2599.99,2599.99,0.0,No Discount,3.2,8
+539,"iMac (4.5K Retina, 24-inch) - Apple M1 Chip 8-Core CPU, 8-Core GPU - 8GB Memory - 256GB SSD",Desktop Computers & PCs,999.97,999.97,0.0,No Discount,4.6,200
+118,Dell XPS Tower - 13th Gen Intel Core i7-13700 - GeForce RTX 4060 - Windows 11  ,Desktop Computers & PCs,1399.99,1599.99,200.0,Dollars Off,5.0,2
+462,"Skytech Chronos Gaming Desktop - 12th Gen Intel Core i7-12700F -  ARC A770, White",Desktop Computers & PCs,1349.99,1349.99,0.0,No Discount,4.1,8
+531,iBUYPOWER Slate Mesh Gaming Desktop - 13th Gen Intel Core i7-13700F - GeForce RTX 3060Ti - Windows 11,Desktop Computers & PCs,1499.99,1499.99,0.0,No Discount,3.5,4
+173,HP OMEN 45L Gaming Desktop - AMD Ryzen 9 7900X - GeForce RTX 4070 Ti,Desktop Computers & PCs,2799.99,2799.99,0.0,No Discount,4.7,9
+92,"CyberPowerPC Gamer Supreme Gaming Desktop - 13th Gen Intel Core i7-13700KF - GeForce RTX 4080, White",Desktop Computers & PCs,2499.99,2499.99,0.0,No Discount,4.0,92
+93,"CyberPowerPC Gamer Xtreme Gaming Desktop - 13th Gen Intel Core i5-13400F -  GeForce RTX 4060, Black",Gaming Desktop Computer & PCs,999.99,999.99,0.0,No Discount,4.5,99
+298,MSI Aegis R Gaming Desktop - 13th Gen Intel Core i7-13700F -  GeForce RTX 4070 - Windows 11,Gaming Desktop Computer & PCs,1599.99,1899.99,300.0,Dollars Off,4.4,106
+182,HP Victus Gaming Desktop – 13th Gen Intel Core i7-13700F GeForce RTX 4060 – Window 11 ,Gaming Desktop Computer & PCs,1299.99,1299.99,0.0,No Discount,4.3,7
+533,iBUYPOWER SlateMesh Gaming Desktop- 13th Gen Intel Core i7 - 13700F - GeForce RTX 4060 - Windows 11,Gaming Desktop Computer & PCs,1299.99,1299.99,0.0,No Discount,4.3,53
+11,ASUS ROG Strix Gaming Desktop - 13th Gen Intel Core  i7-13700F - NVIDIA GeForce RTX 4060 - Windows 11 Home,Gaming Desktop Computer & PCs,1449.99,1449.99,0.0,No Discount,,0
+464,Skytech Chronos Mini Gaming Desktop - 13th Gen Intel Core i5-13400F - GeForce RTX 4060,Gaming Desktop Computer & PCs,899.99,899.99,0.0,No Discount,5.0,1
+172,HP OMEN 45L Gaming Desktop - 13th Gen Intel Core i9-13900KF - GeForce RTX 4070 Ti - Windows 11,Gaming Desktop Computer & PCs,2499.99,2899.99,400.0,Dollars Off,4.5,13
+299,MSI Aegis R Gaming Desktop - 13th Gen Intel Core i7-13700F - GeForce RTX 4060Ti - Windows 11 ,Gaming Desktop Computer & PCs,1599.99,1599.99,0.0,No Discount,4.5,33
+534,iBUYPOWER Y40 Gaming Desktop 13th Gen Intel Core i9-13900KF - GeForce RTX 4080 - Windows 11,Gaming Desktop Computer & PCs,2899.99,2899.99,0.0,No Discount,4.2,34
+87,"CYBERPOWERPC Gamer Supreme Liquid Cooled Gaming Tower - Intel Core i7-13700KF 16-Core - GeForce RTX 4070, 12GB",Gaming Desktop Computer & PCs,1699.99,1699.99,0.0,No Discount,4.3,6
+461,Skytech Blaze 3 Gaming Desktop - 12th Gen Intel Core i7-12700F - GeForce RTX 4060Ti - Windows 11,Gaming Desktop Computer & PCs,1299.99,1299.99,0.0,No Discount,,0
+535,iBUYPOWER Y60 Gaming Desktop 13th Gen Intel Core i9-13900KF - GeForce RTX 4070Ti - Windows 11,Gaming Desktop Computer & PCs,2499.99,2499.99,0.0,No Discount,4.2,32
+532,iBUYPOWER SlateMRA7N36T01 Gaming Desktop - AMD Ryzen 7 5700 - GeForce RTX 3060Ti - Windows 11,Gaming Desktop Computer & PCs,1299.99,1299.99,0.0,No Discount,4.5,6
+463,Skytech Chronos Gaming Desktop - 12th Gen Intel Core i7-12700F - GeForce RTX 4070,Gaming Desktop Computer & PCs,1699.99,1699.99,0.0,No Discount,4.5,12
+460,Skytech Azure2 Gaming Desktop - 12th Gen Intel Core i9-12900F - GeForce RTX 4080,Gaming Desktop Computer & PCs,2599.99,2599.99,0.0,No Discount,3.2,8
+462,"Skytech Chronos Gaming Desktop - 12th Gen Intel Core i7-12700F -  ARC A770, White",Gaming Desktop Computer & PCs,1349.99,1349.99,0.0,No Discount,4.1,8
+92,"CyberPowerPC Gamer Supreme Gaming Desktop - 13th Gen Intel Core i7-13700KF - GeForce RTX 4080, White",Gaming Desktop Computer & PCs,2499.99,2499.99,0.0,No Discount,4.0,92
+173,HP OMEN 45L Gaming Desktop - AMD Ryzen 9 7900X - GeForce RTX 4070 Ti,Gaming Desktop Computer & PCs,2799.99,2799.99,0.0,No Discount,4.7,9
+531,iBUYPOWER Slate Mesh Gaming Desktop - 13th Gen Intel Core i7-13700F - GeForce RTX 3060Ti - Windows 11,Gaming Desktop Computer & PCs,1499.99,1499.99,0.0,No Discount,3.5,4
+170,"HP OMEN 17.3"" Gaming Laptop - 13th Gen Intel Core i7-13700HX - GeForce RTX 4070 - 1080p 144Hz",Gaming Laptops & Notebook Computers,1299.99,1599.99,300.0,Dollars Off,4.0,24
+274,"Lenovo LEGION 5 Pro 16"" Gaming Laptop - AMD Ryzen 7 7745HX - GeForce RTX 4070 - 240Hz WQXGA (2560 x 1600) - Windows 11 - Onyx Grey",Gaming Laptops & Notebook Computers,1599.99,1799.99,200.0,Dollars Off,,0
+276,"Lenovo LEGION PRO 5i 16"" Gaming Laptop - 13th Gen Intel Core i7-13700HX - GeForce RTX 4060 - 165Hz 2560 x 1600",Gaming Laptops & Notebook Computers,1399.99,1699.99,300.0,Dollars Off,4.4,41
+301,"MSI GE68HX Raider 16"" Gaming Laptop - 13th Gen Intel Core i9-13950HX - GeForce RTX 4060 - 144HZ FHD+ (1920 x 1200) ",Gaming Laptops & Notebook Computers,1399.99,1799.99,400.0,Dollars Off,4.5,95
+302,"MSI Katana 15.6"" Laptop - 12th Gen Intel Core i7-12650H - GeForce RTX 4060 - FHD (1920 x 1080) - 144Hz - Windows 11",Gaming Laptops & Notebook Computers,1199.99,1199.99,0.0,No Discount,4.3,23
+171,"HP OMEN 17.3"" Gaming Laptop - 13th Gen Intel Core i9-13900HX - GeForce RTX 4080 - 165HZ 1440p - Windows 11",Gaming Laptops & Notebook Computers,1999.99,2399.99,400.0,Dollars Off,4.2,4
+277,"Lenovo LEGION Pro 5i 16"" Gaming Laptop - 13th Gen Intel Core i9-13900HX - GeForce RTX 4060 - 165Hz 2560 x 1600",Gaming Laptops & Notebook Computers,1599.99,1599.99,0.0,No Discount,4.2,85
+180,"HP Victus 16.1"" Gaming Laptop - 13th Gen Intel Core i7-13700HX - GeForce RTX 4060 - 144HZ 1080p  - Windows 11",Gaming Laptops & Notebook Computers,1399.99,1399.99,0.0,No Discount,4.0,81
+307,"MSI Raider GE68HX 16"" Laptop - 13th Gen Intel Core i9-13950HX - GeForce RTX 4070 - QHD+ (2560 x 1600) - Windows 11",Gaming Laptops & Notebook Computers,2299.99,2299.99,0.0,No Discount,4.1,43
+8,"ASUS 16"" ROG Strix G16 Laptop - 13th Gen Intel Core i9-13980HX - GeForce RTX™ 4060 - 1920 x 1200 - Windows 11",Gaming Laptops & Notebook Computers,1499.99,1749.99,250.0,Dollars Off,4.7,22
+308,MSI Raider GE78HX 17 Laptop - 13th Gen Intel Core i9-13950HX - GeForce RTX 4080 - QHD+ (2560 x 1600) - Windows 11 ,Gaming Laptops & Notebook Computers,2699.99,3299.99,600.0,Dollars Off,3.2,31
+27,Acer Nitro V 15.6” Gaming Laptop – 13th Gen Intel Core i5-13420H Processor – 1080p – Windows 11,Gaming Laptops & Notebook Computers,699.99,699.99,0.0,No Discount,4.7,6
+99,"Dell 16 Gaming Laptop -  13th Gen Intel Core i9-13900HX - GeForce RTX 4070 - Windows 11, Metallic Nightshade Gray",Gaming Laptops & Notebook Computers,1699.99,1899.99,200.0,Dollars Off,3.7,11
+101,"Dell G15 Gaming Laptop -  13th Gen Intel Core i9-13900HX - GeForce RTX 4060 - Windows 11, Black",Gaming Laptops & Notebook Computers,1599.99,1599.99,0.0,No Discount,3.8,31
+300,MSI Cyborg Gaming Laptop - 13th Gen Intel Core i7-13620H - GeForce RTX 4050 - 144HZ 1080p ,Gaming Laptops & Notebook Computers,999.99,999.99,0.0,No Discount,4.2,52
+9,"ASUS 16"" ROG Strix G16 Laptop - Intel Core i7-13650HX - GeForce RTX  4050 - 1920x 1200 - Windows 11",Gaming Laptops & Notebook Computers,1299.99,1549.99,250.0,Dollars Off,4.6,7
+279,"Lenovo LOQ 15.6"" Gaming Laptop - 13th Gen Intel Core i5-13420H - GeForce RTX 2050 - 144HZ  -  1080p - Windows 11",Gaming Laptops & Notebook Computers,599.97,599.97,0.0,No Discount,4.7,23
+275,"Lenovo LEGION 5i Pro 16"" Gaming Laptop - 11th Gen Intel Core i7-11800H - 165Hz 2560 x 1600 Display - Storm Gray - Windows 11",Gaming Laptops & Notebook Computers,1299.99,1299.99,0.0,No Discount,4.5,60
+181,"HP Victus 16.1"" Laptop - 13th Gen Intel Core i7-13700H - GeForce RTX 4070 - 1080p 144Hz",Gaming Laptops & Notebook Computers,1299.99,1299.99,0.0,No Discount,4.2,23
+451,SanDisk 1TB Extreme Go SSD ,"Hard Drives, SSD & Storage",64.99,79.99,15.0,Dollars Off,4.6,310
+286,Lexar High-Performance 1TB NVMe Portable SSD and 64GB USB-C Dual Drive Storage Bundle,"Hard Drives, SSD & Storage",69.97,69.97,0.0,No Discount,4.6,65
+398,Samsung 2TB Portable SSD T7 Touch,"Hard Drives, SSD & Storage",159.99,159.99,0.0,No Discount,4.6,458
+452,SanDisk Extreme 400GB microSD Card with Adapter,"Hard Drives, SSD & Storage",56.99,56.99,0.0,No Discount,4.8,269
+32,AirPods Pro (2nd generation) with MagSafe Case (USB-C) with AppleCare+ Included,Headphones & Earbuds,199.99,199.99,0.0,Limited Time Price,4.8,945
+35,Apple AirPods (3rd Generation) with MagSafe Charging Case,Headphones & Earbuds,169.99,169.99,0.0,Free Shipping,4.4,6534
+75,Beats Studio Pro - Wireless Bluetooth Noise Cancelling Headphones with AppleCare+ Included,Headphones & Earbuds,179.99,179.99,0.0,Limited Time Price,4.5,519
+73,Beats Flex Wireless Earphones,Headphones & Earbuds,49.99,49.99,0.0,No Discount,4.0,763
+74,Beats Studio Buds + True Wireless Noise Cancelling Earbuds with AppleCare+ Included,Headphones & Earbuds,149.99,149.99,0.0,Limited Time Price,4.0,145
+361,"Powerbeats Pro True Wireless Earbuds, Navy",Headphones & Earbuds,139.99,139.99,0.0,Limited Time Price,4.3,161
+491,Sony WH1000XM5 Wireless Noise-Canceling Over-the-Ear Headphones - Black,Headphones & Earbuds,399.99,399.99,0.0,No Discount,4.3,70
+83,Bowers & Wilkins Px7 S2 Headphones,Headphones & Earbuds,299.99,299.99,0.0,No Discount,4.3,40
+459,Skullcandy Sesh ANC True Wireless Headphones,Headphones & Earbuds,49.97,49.97,0.0,No Discount,4.1,1181
+55,Arlo Essential Outdoor 2K Camera (2nd Generation) 3-pack with 3 Solar Panels,Home Security Systems & Cameras,279.99,279.99,0.0,No Discount,3.4,69
+369,"Ring Alarm 8-piece Home Security Kit (Gen 2) with Included Panic Button, Motion Detector and Contact Sensors",Home Security Systems & Cameras,199.99,199.99,0.0,No Discount,4.7,71
+371,Ring Battery Doorbell Plus and Indoor Cam (Gen 2) with Included Manual Privacy Cover,Home Security Systems & Cameras,179.99,179.99,0.0,No Discount,4.6,247
+375,Ring Security Floodlight Cam Wired Pro with Stick Up Cam Battery (3rd gen),Home Security Systems & Cameras,279.99,279.99,0.0,No Discount,4.6,1118
+376,Ring Stick Up Cam Battery (3rd gen) + Mounts - 3 pack,Home Security Systems & Cameras,249.99,249.99,0.0,No Discount,4.5,2541
+396,SWANN 4K UHD 16-Channel 16-PoE Cameras 2TB NVR Wired Security System,Home Security Systems & Cameras,999.99,999.99,0.0,No Discount,4.0,9
+364,Reolink -  4K+ 16-Channel 4TB 8-Cam Wired Security Camera System,Home Security Systems & Cameras,899.99,899.99,0.0,No Discount,4.5,36
+137,"Google Nest Cam (Outdoor or Indoor, Battery) 3-pack ",Home Security Systems & Cameras,339.99,399.99,60.0,Dollars Off,3.9,654
+79,Blink Whole Home Security Camera System Bundle ,Home Security Systems & Cameras,189.99,299.99,110.0,Dollars Off,4.0,75
+292,Lorex 4K+ Fusion 2TB Wired NVR Security System with Four 4K Bullet Cameras,Home Security Systems & Cameras,509.99,629.99,120.0,Dollars Off,2.0,4
+130,Feit Electric LED 1080P HD Smart Flood Security Light,Home Security Systems & Cameras,109.99,109.99,0.0,No Discount,3.9,2949
+58,Arlo Pro 3 Floodlight Camera with Solar Panel,Home Security Systems & Cameras,249.99,249.99,0.0,No Discount,4.2,456
+374,"Ring Security Alarm 14-piece Kit (Gen 2) with Stick Up Cam, Smoke/Co Listener and Range Extender ",Home Security Systems & Cameras,349.99,349.99,0.0,No Discount,4.7,355
+372,"Ring Door/Window Alarm Sensors, 4-pack",Home Security Systems & Cameras,65.99,65.99,0.0,No Discount,4.7,1138
+373,Ring Floodlight Cam Wired Plus with Chime Pro 2.0 (2nd gen),Home Security Systems & Cameras,219.99,219.99,0.0,No Discount,4.6,605
+98,"Defender Sentinel 4K Ultra HD POE Wired 2TB NVR Security System With 16 Metal Cameras, Smart Human Detection, Color Night Vision & Mobile App",Home Security Systems & Cameras,1299.99,1299.99,0.0,No Discount,3.8,76
+377,Ring Stick Up Cam Wired (3rd gen) + Mounts 3 pack,Home Security Systems & Cameras,249.99,249.99,0.0,No Discount,4.5,350
+370,"Ring Alarm Motion Detector, 2-pack",Home Security Systems & Cameras,49.99,49.99,0.0,No Discount,4.7,785
+97,"Defender Sentinel 4K Ultra HD POE Wired 1TB NVR Security System With 8 Metal Cameras, Smart Human Detection, Color Night Vision & Mobile App",Home Security Systems & Cameras,449.99,499.99,50.0,Dollars Off,3.8,76
+517,Wyze Cam v3 4-Pack Indoor/Outdoor Security Cameras with Color Night Vision,Home Security Systems & Cameras,119.99,119.99,0.0,No Discount,4.3,262
+59,Arlo Pro 4 Spotlight 4 Camera Security Bundle,Home Security Systems & Cameras,399.99,399.99,0.0,No Discount,4.0,143
+61,Arlo Ultra 2 Spotlight Camera Wire Free Security System 4 pack with Total Security Mount,Home Security Systems & Cameras,899.99,899.99,0.0,No Discount,4.0,1600
+57,Arlo Essential Wired Video Doorbell,Home Security Systems & Cameras,59.99,59.99,0.0,No Discount,4.2,33
+60,"Arlo Solar Panel Charger, 2-pack",Home Security Systems & Cameras,99.99,99.99,0.0,No Discount,4.4,401
+131,Feit Electric Smart Video Doorbell With Wi-Fi Camera,Home Security Systems & Cameras,59.99,59.99,0.0,No Discount,3.7,548
+77,"Blink - 8 Camera Security System - 6 Outdoor, 2 Mini Indoor Plug-in Cameras, with Yard Sign",Home Security Systems & Cameras,449.99,449.99,0.0,No Discount,4.9,8
+56,Arlo Essential Wire-Free Video Doorbell with Chime 2 Bundle,Home Security Systems & Cameras,139.99,139.99,0.0,No Discount,3.8,519
+293,Lorex 4K+ UHD 12MP Wired Security Camera System with 6 Cameras & 2TB HDD,Home Security Systems & Cameras,899.99,899.99,0.0,No Discount,3.9,38
+3,ADT 13-piece Smart Home Security System with Google Nest Products & Pro Installation Included,Home Security Systems & Cameras,799.99,799.99,0.0,No Discount,4.4,50
+454,"SimpliSafe Home Security Kit, 10-piece",Home Security Systems & Cameras,249.99,249.99,0.0,No Discount,4.8,40
+497,Swann Home 8 Camera 8 Channel 1080p Full HD DVR Audio/Video Security System - SWDVK-846808MQBWF,Home Security Systems & Cameras,319.99,319.99,0.0,No Discount,3.8,32
+455,"SimpliSafe Home Security Kit, 13-piece",Home Security Systems & Cameras,349.99,349.99,0.0,No Discount,4.5,44
+494,Swann 4K UHD 8-Channel 8-PoE Cameras 1TB NVR Wired Security System,Home Security Systems & Cameras,529.99,529.99,0.0,No Discount,,0
+518,Wyze Floodlight Cam with Wyze Cam v3 Indoor/Outdoor Security Camera System,Home Security Systems & Cameras,99.99,99.99,0.0,No Discount,4.1,138
+498,"Swann Home 8-Channel, 6-Camera Indoor/Outdoor Wired 1080p Full HD 1TB DVR Security System with Yard Stake",Home Security Systems & Cameras,279.99,279.99,0.0,No Discount,3.9,446
+457,Simplisafe Entry Sensor (6 pack)			,Home Security Systems & Cameras,64.99,64.99,0.0,No Discount,4.9,113
+456,"SimpliSafe Outdoor Security Cameras, 2-pack",Home Security Systems & Cameras,299.99,299.99,0.0,No Discount,4.5,19
+366,Reolink - 8 Channel 4K+ Ultra HD 12MP NVR PoE Smart Security System,Home Security Systems & Cameras,749.99,749.99,0.0,No Discount,4.4,13
+291,"Lorex 4K Dual Lens Indoor Outdoor Wi-Fi Camera, 2-pack",Home Security Systems & Cameras,399.99,399.99,0.0,No Discount,,0
+499,"Swann Professional 4K Ultra HD Indoor/Outdoor Wired Security Camera System, 16- Channel NVR 4TB HDD, 8 Bullet & 8 Dome Cameras w/ Two-Way Audio & Siren",Home Security Systems & Cameras,1699.99,1699.99,0.0,No Discount,3.2,38
+365,Reolink - 4K+ 16-Channel 4TB 12-Cam Wired Security Camera System,Home Security Systems & Cameras,1199.99,1199.99,0.0,No Discount,3.7,3
+78,Blink - Floodlight with Outdoor Camera Bundle,Home Security Systems & Cameras,249.99,249.99,0.0,No Discount,5.0,3
+367,Reolink - 8-Channel 4K+ UHD 12MP 6-Cam Wired Security System,Home Security Systems & Cameras,699.99,699.99,0.0,No Discount,3.5,4
+76,"Blink - 3 Camera Security System - 2 Outdoor and 1 Mini Pan-Tilt Cameras, with Yard Sign",Home Security Systems & Cameras,219.99,219.99,0.0,No Discount,4.1,16
+96,"Defender Guard Pro 360-Degree PTZ 2K/4MP Wi-Fi Plug-In Power Security Camera, 4-pack",Home Security Systems & Cameras,219.99,299.99,80.0,Dollars Off,3.6,27
+368,Reolink - Argus 4K Ultra PT Spotlight Security Battery Camera Kit,Home Security Systems & Cameras,149.99,149.99,0.0,No Discount,3.7,25
+289,Lorex 4K 16-Channel 4TB Pro NVR with 4x 4K Optical Zoom Cameras and 4x 4K Bullet Cameras,Home Security Systems & Cameras,1299.99,1299.99,0.0,No Discount,2.8,8
+496,"Swann Home 16-Channel, 12-Camera Indoor/Outdoor Wired 4K Ultra HD 4TB DVR Security System and Wi-Fi Extender",Home Security Systems & Cameras,799.99,799.99,0.0,No Discount,3.8,41
+288,Lorex 2K Battery Video Doorbell With Color Night Vision & Wi-Fi Chime Box,Home Security Systems & Cameras,199.99,199.99,0.0,No Discount,3.3,12
+395,SWANN 4K UHD 16-Channel 10-PoE Dome Cameras 2TB NVR Wired Security System,Home Security Systems & Cameras,699.99,699.99,0.0,No Discount,3.6,10
+495,"Swann Enforcer 8-Channel, 6-Camera Indoor/Outdoor Wired 1080p Full HD 1TB DVR Security System with Yard Stake",Home Security Systems & Cameras,279.99,279.99,0.0,No Discount,3.9,446
+378,Ring Video Doorbell Pro 2 (2021 release) and Ring Stick up Security Cam Bundle,Home Security Systems & Cameras,299.99,299.99,0.0,No Discount,4.4,573
+70,"AvertX 4K Add-on Bullet IP Security Camera with Smart Analytics, 2-pack",Home Security Systems & Cameras,399.99,399.99,0.0,No Discount,4.8,20
+69,AvertX 16 Channel 4K NVR Security Camera System with 8TB HDD and 8 4K Bullet Cameras,Home Security Systems & Cameras,2499.99,2499.99,0.0,No Discount,4.6,166
+287,Lorex 2K Battery Doorbell with 4K Spotlight Wi-Fi Camera,Home Security Systems & Cameras,319.99,319.99,0.0,No Discount,1.0,1
+4,ADT 9-piece Smart Home Security System with Google Nest Products & Pro Installation Included,Home Security Systems & Cameras,499.99,499.99,0.0,No Discount,3.6,11
+71,AvertX 8-Channel 4K Security Camera System with 4TB HDD with 6 Bullet Cameras ,Home Security Systems & Cameras,1799.99,1799.99,0.0,No Discount,4.6,25
+493,"Swann - WiFi Security 4-Cam 2K Kit 1TB Tower, Solar Panels & Extra Battery",Home Security Systems & Cameras,499.99,499.99,0.0,No Discount,1.6,5
+500,Swann Wireless Security 3-Cam 2K Kit with 64GB Storage Hub Tower and LED Spotlights,Home Security Systems & Cameras,319.99,319.99,0.0,No Discount,1.9,10
+84,Brilliant Smart Home Control Panel - Plug-In,Home Security Systems & Cameras,329.99,329.99,0.0,No Discount,4.5,4
+290,"Lorex 4K 32-Channel Wired Pro NVR, 18 Camera Security System",Home Security Systems & Cameras,5199.99,5199.99,0.0,No Discount,,0
+544,"iPad 10.2-inch, 64GB, Wi-Fi (9th Generation)",iPad & Tablets,249.99,319.99,70.0,Dollars Off,4.8,6012
+547,"iPad Air 10.9-inch, 256GB, Wi-Fi (5th Generation)",iPad & Tablets,719.99,719.99,0.0,No Discount,4.8,925
+549,"iPad Air 10.9-inch, 64GB, Wi-Fi (5th Generation)",iPad & Tablets,569.99,569.99,0.0,No Discount,4.8,717
+542,"iPad 10.2-inch, 256GB, Wi-Fi (9th Generation, 2021)",iPad & Tablets,399.99,449.99,50.0,Dollars Off,4.8,2543
+552,"iPad Pro 12.9-inch, Wi-Fi (6th Generation)",iPad & Tablets,1049.99,1049.99,0.0,No Discount,4.8,415
+439,"Samsung Galaxy Tab A8 10.5"" Wi-Fi Tablet 64GB - Includes Book Cover",iPad & Tablets,149.97,149.97,0.0,No Discount,4.4,1042
+551,"iPad Pro 11-inch, Wi-Fi (4th Generation)",iPad & Tablets,699.99,749.99,50.0,Dollars Off,4.8,643
+545,"iPad 10.2-inch, 64GB, Wi-Fi + Cellular (9th Generation)",iPad & Tablets,379.99,449.99,70.0,Dollars Off,4.7,538
+548,"iPad Air 10.9-inch, 256GB, Wi-Fi + Cellular (5th Generation)",iPad & Tablets,869.99,869.99,0.0,No Discount,4.8,145
+546,"iPad 10.9-inch, Wi-Fi (10th Generation)",iPad & Tablets,439.99,439.99,0.0,No Discount,4.8,1766
+437,"Samsung Galaxy 8.7"" Tab A7 Lite Wi-Fi Tablet 32GB  - Includes Book Cover",iPad & Tablets,99.97,99.97,0.0,No Discount,4.3,601
+543,"iPad 10.2-inch, 256GB, Wi-Fi + Cellular (9th Generation)",iPad & Tablets,529.99,599.99,70.0,Dollars Off,4.7,331
+550,"iPad Air 10.9-inch, 64GB, Wi-Fi + Cellular (5th Generation)",iPad & Tablets,719.99,719.99,0.0,No Discount,4.5,74
+554,"iPad mini 8.3-inch, 64GB, Wi-Fi (6th Generation)",iPad & Tablets,489.99,489.99,0.0,No Discount,4.7,725
+441,"Samsung Galaxy Tab S9 FE+ 12.4"" Wi-Fi Tablet 128GB - Includes S Pen",iPad & Tablets,549.99,549.99,0.0,No Discount,4.8,22
+553,"iPad mini 8.3-inch, 256GB, Wi-Fi (6th Generation)",iPad & Tablets,629.99,629.99,0.0,No Discount,4.8,396
+442,"Samsung Galaxy Tab S9+ 12.4"" Wi-Fi Tablet 512 GB - Includes S Pen",iPad & Tablets,999.99,999.99,0.0,No Discount,5.0,2
+440,"Samsung Galaxy Tab S9 11"" Wi-Fi Tablet 256GB - Includes S Pen",iPad & Tablets,799.99,799.99,0.0,No Discount,,0
+37,Apple Magic Keyboard 11-inch ,iPad & Tablets,289.99,289.99,0.0,No Discount,4.7,690
+38,Apple Magic Keyboard for iPad Pro 12.9-inch ,iPad & Tablets,339.99,339.99,0.0,No Discount,4.7,364
+41,Apple Pencil (2nd Generation),iPad & Tablets,124.99,124.99,0.0,No Discount,4.7,1302
+145,"HP 14"" Touchscreen Laptop - AMD Ryzen 3 5300U - HD (1366 x 768) - Windows 11 in S Mode",Laptops & Notebook Computers,399.99,399.99,0.0,No Discount,4.1,140
+322,"MacBook Air - (13.6-inch) Apple M2 Chip 8-core CPU, 8-core GPU - 256GB SSD",Laptops & Notebook Computers,1049.99,1049.99,0.0,No Discount,4.7,1175
+179,"HP Pavilion Plus 14"" OLED 2.8k (2880 x 1800) 120Hz Laptop - AMD Ryzen 7 7840U - Windows 11",Laptops & Notebook Computers,699.99,899.99,200.0,Dollars Off,4.6,29
+327,"MacBook Pro (14-inch) - Apple M3 chip with 8-core CPU and 10-core GPU, 1TB SSD",Laptops & Notebook Computers,1749.99,1749.99,0.0,No Discount,4.5,31
+168,"HP ENVY x360 15.6"" Intel Evo Platform 2-in-1 Touchscreen Laptop - 13th Gen Intel Core i7-1355U - 1080p - Windows 11",Laptops & Notebook Computers,899.99,1199.99,300.0,Dollars Off,4.5,117
+270,"Lenovo IdeaPad Slim 3i 15.6"" Touchscreen Laptop - 13th Gen Intel Core i5-1335U - 1080p - Windows 11",Laptops & Notebook Computers,549.99,699.99,150.0,Dollars Off,4.1,42
+321,"MacBook Air - (13.6-inch) Apple M2 Chip 8-core CPU, 10-core GPU, 512GB SSD",Laptops & Notebook Computers,1349.99,1349.99,0.0,No Discount,4.8,553
+282,"Lenovo ThinkPad L13 Yoga 13.3"" Touchscreen 2-in-1 Laptop - 11th Gen Intel Core i5-1145G7 -  1080p - Windows 11",Laptops & Notebook Computers,799.99,799.99,0.0,No Discount,4.4,119
+328,"MacBook Pro (14-inch) - Apple M3 chip with 8-core CPU and 10-core GPU, 512GB SSD",Laptops & Notebook Computers,1549.99,1549.99,0.0,No Discount,4.5,17
+319,"MacBook Air (15-inch) - Apple M2 Chip with 8-core CPU and 10-core GPU, 256GB ",Laptops & Notebook Computers,1049.99,1249.99,200.0,Dollars Off,4.7,257
+320,"MacBook Air (15-inch) - Apple M2 Chip with 8-core CPU and 10-core GPU, 512GB ",Laptops & Notebook Computers,1249.99,1449.99,200.0,Dollars Off,4.8,230
+271,"Lenovo IdeaPad Slim 5 16"" Touchscreen Laptop - AMD Ryzen 7 7730U - WUXGA (1920 x 1200) - Windows 11",Laptops & Notebook Computers,599.99,799.99,200.0,Dollars Off,4.4,52
+164,"HP ENVY 17.3"" Touchscreen Laptop - 13th Gen Intel Core i7-1355U - GeForce RTX 3050 - 1080p - Windows 11",Laptops & Notebook Computers,899.99,1249.99,350.0,Dollars Off,4.0,1
+325,"MacBook Pro (14-inch) - Apple M3 Pro chip with 11-core CPU and 14-core GPU, 512GB SSD",Laptops & Notebook Computers,1949.99,1949.99,0.0,No Discount,4.3,9
+143,"HP 14"" Laptop - 13th Gen Intel Core i3-1315U - 1080p - Windows 11",Laptops & Notebook Computers,379.99,499.99,120.0,Dollars Off,4.5,32
+170,"HP OMEN 17.3"" Gaming Laptop - 13th Gen Intel Core i7-13700HX - GeForce RTX 4070 - 1080p 144Hz",Laptops & Notebook Computers,1299.99,1599.99,300.0,Dollars Off,4.0,24
+274,"Lenovo LEGION 5 Pro 16"" Gaming Laptop - AMD Ryzen 7 7745HX - GeForce RTX 4070 - 240Hz WQXGA (2560 x 1600) - Windows 11 - Onyx Grey",Laptops & Notebook Computers,1599.99,1799.99,200.0,Dollars Off,,0
+324,"MacBook Pro (14-inch) - Apple M3 Max chip with 36GB Memory, 14-core CPU and 30-core GPU, 1TB SSD ",Laptops & Notebook Computers,3149.99,3149.99,0.0,No Discount,,0
+174,"HP Pavilion 15.6"" Touchscreen Laptop - 13th Gen Intel Core i5-1335U - 1080p - Windows 11",Laptops & Notebook Computers,749.99,749.99,0.0,No Discount,4.5,225
+253,"LG gram 15.6"" Touchscreen Laptop - 13th Gen Intel Core i5-1340P - 1080p - Windows 11",Laptops & Notebook Computers,799.99,799.99,0.0,No Discount,4.5,21
+154,"HP 17.3"" Touchscreen Laptop - AMD Ryzen 7 7730U - Windows 11 ",Laptops & Notebook Computers,599.99,699.99,100.0,Dollars Off,4.3,106
+104,"Dell Inspiron 15.6"" Touchscreen Laptop - 13th Gen Intel Core i7-1355U - 1080p - Windows 11, Black",Laptops & Notebook Computers,849.99,849.99,0.0,No Discount,4.1,394
+302,"MSI Katana 15.6"" Laptop - 12th Gen Intel Core i7-12650H - GeForce RTX 4060 - FHD (1920 x 1080) - 144Hz - Windows 11",Laptops & Notebook Computers,1199.99,1199.99,0.0,No Discount,4.3,23
+276,"Lenovo LEGION PRO 5i 16"" Gaming Laptop - 13th Gen Intel Core i7-13700HX - GeForce RTX 4060 - 165Hz 2560 x 1600",Laptops & Notebook Computers,1399.99,1699.99,300.0,Dollars Off,4.4,41
+301,"MSI GE68HX Raider 16"" Gaming Laptop - 13th Gen Intel Core i9-13950HX - GeForce RTX 4060 - 144HZ FHD+ (1920 x 1200) ",Laptops & Notebook Computers,1399.99,1799.99,400.0,Dollars Off,4.5,95
+30,Acer Swift Go 14” Intel Evo Platform Touchscreen Laptop – 13th Gen Intel Core i7-1355U Processor – 1080p – Windows 11,Laptops & Notebook Computers,799.99,899.99,100.0,Dollars Off,,0
+162,"HP Dragonfly G4 13.5"" Intel Evo Platform Touchscreen Laptop - 13th Gen Intel Core i7-1355U - 1280p - Windows 11 Pro",Laptops & Notebook Computers,1499.99,1499.99,0.0,No Discount,4.5,31
+263,"Lenovo Flex 7i Intel Evo Platform 14"" 2-in-1 Touchscreen Laptop - 13th Gen Intel Core i7-1355U - Windows 11",Laptops & Notebook Computers,999.99,999.99,0.0,No Discount,3.8,36
+177,"HP Pavilion 15.6"" Touchscreen Laptop - AMD Ryzen 7 7730U - 1080p - Windows 11",Laptops & Notebook Computers,699.99,849.99,150.0,Dollars Off,4.4,309
+261,"Lenovo Flex 5i 14"" Touchscreen 2-in-1 Chromebook Laptop - 12th Gen Intel Core i3-1215U - WUXGA - Storm Grey",Laptops & Notebook Computers,379.99,499.99,120.0,Dollars Off,4.2,112
+33,Allstate 3 Years Drops & Spills Protection (For New Computers $500 & Above),Laptops & Notebook Computers,99.99,99.99,0.0,No Discount,4.3,1941
+171,"HP OMEN 17.3"" Gaming Laptop - 13th Gen Intel Core i9-13900HX - GeForce RTX 4080 - 165HZ 1440p - Windows 11",Laptops & Notebook Computers,1999.99,2399.99,400.0,Dollars Off,4.2,4
+326,"MacBook Pro (14-inch) - Apple M3 Pro chip with 18GB Memory, 12-core CPU and 18-core GPU, 1TB SSD",Laptops & Notebook Computers,2349.99,2349.99,0.0,No Discount,5.0,6
+277,"Lenovo LEGION Pro 5i 16"" Gaming Laptop - 13th Gen Intel Core i9-13900HX - GeForce RTX 4060 - 165Hz 2560 x 1600",Laptops & Notebook Computers,1599.99,1599.99,0.0,No Discount,4.2,85
+147,"HP 14"" Touchscreen Laptop - AMD Ryzen 7 7730U - Windows 11",Laptops & Notebook Computers,749.99,749.99,0.0,No Discount,3.7,6
+281,"Lenovo Slim Pro 9i 16"" Touchscreen Intel Evo Platform Laptop - 13th Gen Intel Core i9-13905H - 3.2K - Mini LED (3200 x 2000) - Windows 11",Laptops & Notebook Computers,1499.99,1799.99,300.0,Dollars Off,4.6,45
+257,"LG gram 17"" Intel Evo Platform Laptop - 13th Gen Intel Core i7-1360P - 2560 x 1600 - Windows 11",Laptops & Notebook Computers,1099.99,1499.99,400.0,Dollars Off,4.2,117
+176,"HP Pavilion 15.6"" Touchscreen Laptop - 13th Gen Intel Core i7-1355U - GeForce MX550 - 1080p - Windows 11 Professional",Laptops & Notebook Computers,899.99,999.99,100.0,Dollars Off,4.4,209
+333,"MacBook Pro (16-inch)- Apple M2 Pro chip with 12‑core CPU and 19‑core GPU, 512GB SSD",Laptops & Notebook Computers,1999.97,1999.97,0.0,No Discount,4.8,40
+283,"Lenovo ThinkPad T14s 14"" Touchscreen Evo Platform Laptop - 13th Gen Intel Core i7-1355U - WUXGA - Windows 11",Laptops & Notebook Computers,999.97,999.97,0.0,No Discount,3.9,22
+331,"MacBook Pro (16-inch) - Apple M3 Pro chip with 18GB Memory, 12-core CPU and 18-core GPU, 512GB SSD ",Laptops & Notebook Computers,2449.99,2449.99,0.0,No Discount,4.4,15
+151,"HP 17.3"" Touchscreen Laptop - 13th Gen Intel Core i7-1355U - Windows 11",Laptops & Notebook Computers,749.99,899.99,150.0,Dollars Off,4.4,400
+152,"HP 17.3"" Touchscreen Laptop - AMD Ryzen 3 7320U - Windows 11",Laptops & Notebook Computers,449.99,499.99,50.0,Dollars Off,4.3,134
+141,"HP 14"" Chromebook Laptop Bundle - Intel Celeron - 1080p - Bonus Sleeve & Wireless Mouse",Laptops & Notebook Computers,299.99,299.99,0.0,No Discount,4.4,158
+330,"MacBook Pro (16-inch) - Apple M3 Max chip with 36GB Memory, 14-core CPU and 30-core GPU, 1TB SSD ",Laptops & Notebook Computers,3449.99,3449.99,0.0,No Discount,5.0,4
+316,"MacBook Air (13.3-inch) - Apple M1 Chip 8-core CPU, 7-core GPU - 8GB Memory - 256GB SSD Gold",Laptops & Notebook Computers,949.99,949.99,0.0,No Discount,4.7,1979
+318,"MacBook Air (13.3-inch) - Apple M1 Chip 8-core CPU, 7-core GPU - 8GB Memory - 256GB SSD Space Gray",Laptops & Notebook Computers,949.99,949.99,0.0,No Discount,4.8,2631
+269,"Lenovo IdeaPad Slim 3 15.6"" Touchscreen Laptop - AMD Ryzen 5 7530U - 1080p - Windows 11 - Abyss Blue",Laptops & Notebook Computers,549.99,649.99,100.0,Dollars Off,4.4,197
+307,"MSI Raider GE68HX 16"" Laptop - 13th Gen Intel Core i9-13950HX - GeForce RTX 4070 - QHD+ (2560 x 1600) - Windows 11",Laptops & Notebook Computers,2299.99,2299.99,0.0,No Discount,4.1,43
+180,"HP Victus 16.1"" Gaming Laptop - 13th Gen Intel Core i7-13700HX - GeForce RTX 4060 - 144HZ 1080p  - Windows 11",Laptops & Notebook Computers,1399.99,1399.99,0.0,No Discount,4.0,81
+329,"MacBook Pro (16-inch) - Apple M3 Max Chip with 48GB Memory, 16-core CPU and 40-core GPU, 1TB SSD (2023)",Laptops & Notebook Computers,3949.99,3949.99,0.0,No Discount,,0
+150,"HP 17.3"" Laptop - 13th Gen Intel Core  i5-1335U - 1080p - Windows 11",Laptops & Notebook Computers,699.99,699.99,0.0,No Discount,4.5,171
+343,Microsoft Surface Pro 9 Bundle - Intel Evo Platform 12th Gen Intel Core i7-1255U - 2880 x 1920 PixelSense Flow Display - Graphite - Windows 11,Laptops & Notebook Computers,1199.99,1499.99,300.0,Dollars Off,4.6,122
+165,"HP ENVY 17.3"" Touchscreen Laptop - 13th Gen Intel Core i7-1355U - GeForce RTX 3050 - 1080p - Windows 11",Laptops & Notebook Computers,1399.99,1399.99,0.0,No Discount,4.6,372
+6,"ASUS 14"" Vivobook Laptop - AMD Ryzen 5 7520U - 1080p - Windows 11",Laptops & Notebook Computers,449.99,599.99,150.0,Dollars Off,,0
+115,"Dell Inspiron Plus 16"" Laptop - 13th Gen Intel Core i7-13620H - 2.5K (2560 X 1600) - GeForce RTX 4060 - Platinum Silver",Laptops & Notebook Computers,1499.99,1699.99,200.0,Dollars Off,3.8,6
+344,Microsoft Surface Pro 9 Bundle - Intel Evo Platform 12th Gen Intel Core i7-1255U - 2880 x 1920 PixelSense Flow Display - Sapphire - Windows 11,Laptops & Notebook Computers,1199.99,1499.99,300.0,Dollars Off,4.8,44
+323,"MacBook Pro (14-inch) - Apple M2 Max chip with 12‑core CPU and 30‑core GPU, 1TB SSD",Laptops & Notebook Computers,2499.97,2499.97,0.0,No Discount,4.6,38
+332,"MacBook Pro (16-inch) - Apple M3 Pro chip with 36GB Memory, 12-core CPU and 18-core GPU, 512GB SSD ",Laptops & Notebook Computers,2849.99,2849.99,0.0,No Discount,3.2,4
+272,"Lenovo IdeaPad Slim 5i 16"" Touchscreen Laptop - 13th Gen Intel Core i7-1355U - WUXGA - 1920 x 1200 Display - Windows 11",Laptops & Notebook Computers,849.99,849.99,0.0,No Discount,4.1,82
+175,"HP Pavilion 15.6"" Touchscreen Laptop - 13th Gen Intel Core i7-1355U - GeForce MX550 - 1080p - Blue",Laptops & Notebook Computers,899.99,899.99,0.0,No Discount,4.5,206
+114,"Dell Inspiron Plus 16""  Intel Evo Platform Laptop - 13th Gen Intel Core i7-13700H - 2.5K (2560 x 1600) Display - Windows 11",Laptops & Notebook Computers,1199.99,1399.99,200.0,Dollars Off,4.0,66
+317,"MacBook Air (13.3-inch) - Apple M1 Chip 8-core CPU, 7-core GPU - 8GB Memory - 256GB SSD Silver",Laptops & Notebook Computers,949.99,949.99,0.0,No Discount,4.8,1604
+153,"HP 17.3"" Touchscreen Laptop - AMD Ryzen 5 7530U - Windows 11",Laptops & Notebook Computers,649.99,649.99,0.0,No Discount,4.3,609
+103,"Dell Inspiron 15.6"" Touchscreen Laptop - 13th Gen Intel Core i5-1335U - 1080p - Windows 11, Black",Laptops & Notebook Computers,699.99,699.99,0.0,No Discount,4.2,141
+262,"Lenovo Flex 5i 16"" Touchscreen 2-in-1 Laptop - 13th Gen Intel Core i7-1355U - Windows 11 - Abyss Blue",Laptops & Notebook Computers,799.99,899.99,100.0,Dollars Off,4.4,104
+102,"Dell Inspiron 14"" Intel Evo Platform Laptop - 13th Gen Intel Core i7-1360P - 2560x1600 Display",Laptops & Notebook Computers,749.99,899.99,150.0,Dollars Off,4.3,64
+438,Samsung Galaxy Book3 15.6” Laptop – 13th Gen Intel Core i7-1355U Processor – 1080p – Windows 11,Laptops & Notebook Computers,799.99,799.99,0.0,Limited Time Price,4.5,80
+339,"Microsoft Surface Laptop Studio 14.4"" Touchscreen 2-in-1 Laptop - 11th Gen Intel Core i7-11370H",Laptops & Notebook Computers,1499.97,1499.97,0.0,No Discount,4.4,87
+244,"LG Gram Style 16"" OLED Intel Evo Platform Laptop - 13th Gen Intel Core i7-1360P - OLED 3K 120Hz Display (3200 x 2000) - Windows 11",Laptops & Notebook Computers,1599.97,1599.97,0.0,No Discount,3.5,4
+106,"Dell Inspiron 16"" Touchscreen Laptop - 13th Gen Intel Core i7-1360P - 1920 x 1200 - Windows 11",Laptops & Notebook Computers,999.99,999.99,0.0,No Discount,5.0,5
+345,Microsoft Surface Pro 9 Bundle - Intel Evo Platform 12th Gen Intel Core i7-1255U - 2880 x 1920 PixelSense Flow Display - Windows 11,Laptops & Notebook Computers,1799.99,1799.99,0.0,No Discount,4.6,107
+146,"HP 14"" Touchscreen Laptop - AMD Ryzen 7 5700U - Windows 11 - Black",Laptops & Notebook Computers,499.99,599.99,100.0,Dollars Off,4.2,354
+144,"HP 14"" Laptop - 13th Gen Intel Core i7-1355U - 1080p - Windows 11",Laptops & Notebook Computers,699.99,799.99,100.0,Dollars Off,4.1,158
+266,"Lenovo IdeaPad 1 15.6"" Laptop - Intel Pentium Silver N6000 - 1080p - Windows 11 S Mode - Microsoft 365 Personal (1-Year Subscription)",Laptops & Notebook Computers,249.99,249.99,0.0,No Discount,3.9,633
+280,"Lenovo Slim 7 Pro X 14.5"" Touchscreen Laptop - AMD Ryzen 9 6900HS - GeForce RTX 3050 - 120Hz 3072 x 1920 Display - Windows 11",Laptops & Notebook Computers,1499.99,1499.99,0.0,No Discount,3.5,176
+19,Acer Aspire 3 Spin 14” 2-in-1 Touchscreen Laptop - Intel Core i3-N305 - 1920 x 1200 - Windows 11 S Mode,Laptops & Notebook Computers,349.99,449.99,100.0,Dollars Off,3.9,33
+284,"Lenovo ThinkPad X1 Carbon 14"" Laptop - 12th Gen Intel Core i7-1255U - Windows 11",Laptops & Notebook Computers,1699.99,1799.99,100.0,Dollars Off,4.5,17
+267,"Lenovo IdeaPad 3 15.6"" Touchscreen Laptop - 12th Gen  Intel Core i5-1235U - 1080p - Windows 11 - Abyss Blue",Laptops & Notebook Computers,599.99,599.99,0.0,No Discount,4.3,56
+183,"HP x360 14""  Touchscreen 2-in-1 Chromebook Laptop - Intel Pentium Silver N6000 - 1080p",Laptops & Notebook Computers,399.99,399.99,0.0,No Discount,4.3,124
+8,"ASUS 16"" ROG Strix G16 Laptop - 13th Gen Intel Core i9-13980HX - GeForce RTX™ 4060 - 1920 x 1200 - Windows 11",Laptops & Notebook Computers,1499.99,1749.99,250.0,Dollars Off,4.7,22
+254,"LG gram 16"" Intel Evo Platform TouchScreen Laptop - 13th Gen Intel Core i7-1360P - 2560 x 1600 - Windows 11",Laptops & Notebook Computers,899.99,1099.99,200.0,Dollars Off,4.0,34
+23,"Acer Chromebook Plus 14” Touchscreen Laptop – AMD Ryzen 3-7320C - 1200p, Protective Sleeve Included",Laptops & Notebook Computers,449.99,449.99,0.0,No Discount,4.7,32
+20,"Acer Aspire 5 15.6"" Laptop - 12th Gen Intel Core i5-12450H - 1080p - Windows 11",Laptops & Notebook Computers,499.99,499.99,0.0,No Discount,4.3,15
+341,"Microsoft Surface Laptop Studio 2 -  14.4"" Touchscreen 2-in-1 Laptop- Intel Evo Platform 13th Gen Intel Core i7-13700H Processor - GeForce RTX 4050 - Windows 11",Laptops & Notebook Computers,2799.99,2799.99,0.0,No Discount,,0
+105,"Dell Inspiron 15.6"" Touchscreen Laptop - AMD Ryzen 7 7730U 8-Core- AMD Radeon",Laptops & Notebook Computers,799.99,799.99,0.0,No Discount,4.4,75
+242,"LG Gram 2-in-1 16"" Touchscreen Intel Evo Platform Laptop - 13th Gen Intel Core i7-1360P - 2560 x 1600 - Windows 11",Laptops & Notebook Computers,1499.99,1499.99,0.0,No Discount,4.2,183
+27,Acer Nitro V 15.6” Gaming Laptop – 13th Gen Intel Core i5-13420H Processor – 1080p – Windows 11,Laptops & Notebook Computers,699.99,699.99,0.0,No Discount,4.7,6
+148,"HP 15.6"" Touchscreen Laptop - AMD Ryzen 5 7520U - Windows 11 ",Laptops & Notebook Computers,699.99,699.99,0.0,No Discount,4.3,235
+304,"MSI Modern 15.6"" Laptop - 12th Gen Intel Core i7-1255U - 1080p",Laptops & Notebook Computers,549.99,699.99,150.0,Dollars Off,4.4,32
+34,Allstate 3 Years Drops & Spills Protection (For New Computers Under $500),Laptops & Notebook Computers,69.99,69.99,0.0,No Discount,4.3,1941
+149,"HP 16"" Pavilion Plus Laptop - NVIDIA GeForce RTX 3050 - Windows 11",Laptops & Notebook Computers,1199.99,1199.99,0.0,No Discount,5.0,1
+337,"Microsoft Surface Laptop 5 - 13.5"" 2256 x 1504 PixelSense Touchscreen Laptop - Intel Evo Platform 12th Gen Intel Core i7-1255U Processor",Laptops & Notebook Computers,1399.99,1699.99,300.0,Dollars Off,4.4,28
+260,"Lenovo Flex 5i 14"" Touchscreen  2-in-1 Laptop - 13th Gen Intel Core i5-1335U - Windows 11 - Abyss Blue",Laptops & Notebook Computers,699.99,799.99,100.0,Dollars Off,3.9,19
+255,"LG gram 17"" Intel EVO Platform Touchscreen Laptop - 13th Gen Intel Core i7-1360P - WQXGA (2560 x 1600) - Windows 11",Laptops & Notebook Computers,1799.99,1799.99,0.0,No Discount,4.4,61
+342,Microsoft Surface Pro 9 Bundle - Intel Evo Platform 12th Gen Intel Core i7-1255U - 2880 x 1920 PixelSense Flow Display - Forest Green - Windows 11,Laptops & Notebook Computers,1199.99,1499.99,300.0,Dollars Off,4.6,18
+18,"Acer Aspire 3 15.6"" Touchscreen Laptop - AMD Ryzen 5 7520U - FHD (1920 x 1080) - Windows 11",Laptops & Notebook Computers,549.99,549.99,0.0,No Discount,3.9,52
+99,"Dell 16 Gaming Laptop -  13th Gen Intel Core i9-13900HX - GeForce RTX 4070 - Windows 11, Metallic Nightshade Gray",Laptops & Notebook Computers,1699.99,1899.99,200.0,Dollars Off,3.7,11
+101,"Dell G15 Gaming Laptop -  13th Gen Intel Core i9-13900HX - GeForce RTX 4060 - Windows 11, Black",Laptops & Notebook Computers,1599.99,1599.99,0.0,No Discount,3.8,31
+278,"Lenovo LEGION Pro 7i 16"" Gaming Laptop - 13th Gen Intel Core i9-13900HX - GeForce RTX 4080 - 240Hz 2560 x 1600",Laptops & Notebook Computers,2799.99,2799.99,0.0,No Discount,4.6,32
+308,MSI Raider GE78HX 17 Laptop - 13th Gen Intel Core i9-13950HX - GeForce RTX 4080 - QHD+ (2560 x 1600) - Windows 11 ,Laptops & Notebook Computers,2699.99,3299.99,600.0,Dollars Off,3.2,31
+338,"Microsoft Surface Laptop 5 - 15"" 2496 x 1644 PixelSense Touchscreen Laptop -  Intel Evo Platform 12th Gen Intel Core i7-1255U Processor",Laptops & Notebook Computers,2299.99,2299.99,0.0,No Discount,4.5,47
+258,"LG gram 17"" Intel Evo Platform Laptop - 13th Gen Intel i7-1360P - 2560 x 1600 Display - Windows 11",Laptops & Notebook Computers,799.97,799.97,0.0,No Discount,4.3,103
+300,MSI Cyborg Gaming Laptop - 13th Gen Intel Core i7-13620H - GeForce RTX 4050 - 144HZ 1080p ,Laptops & Notebook Computers,999.99,999.99,0.0,No Discount,4.2,52
+256,"LG gram 17"" Intel Evo Laptop - 13th Gen Intel i7-1360P - WQXGA Touchscreen Display - Windows 11",Laptops & Notebook Computers,1199.99,1399.99,200.0,Dollars Off,4.3,32
+273,"Lenovo IdeaPad Ultraslim 7i Intel Evo Platform 14"" Touchscreen Laptop - 13th Gen Intel Core i7-1360P - 2.8K (2880 x 1800) - Windows 11",Laptops & Notebook Computers,899.99,999.99,100.0,Dollars Off,2.7,3
+309,"MSI Summit E14Flip EVO 14"" 2-in-1 Touchscreen Laptop - 13th Gen Intel Core i7-1360P - QHD+ (2880 x 1800) - Windows 11",Laptops & Notebook Computers,1099.99,1299.99,200.0,Dollars Off,3.7,6
+5,"ASUS 14"" CX3402CBA Chromebook Plus - 12th Gen Intel Core i3-1215U - 1080P",Laptops & Notebook Computers,399.99,399.99,0.0,No Discount,5.0,2
+21,Acer Aspire 5 15.6” Touchscreen Laptop – 13th Gen Intel Core i5-1335U – 1080P – Windows 11,Laptops & Notebook Computers,699.99,699.99,0.0,No Discount,4.0,73
+166,"HP ENVY 17.3"" Touchscreen Laptop - 13th Gen Intel Core i7-13700H - 1080p - Windows 11 - Microsoft 365 Personal (1-Year Subscription)",Laptops & Notebook Computers,1099.99,1099.99,0.0,No Discount,4.5,44
+303,"MSI Modern 15.6"" Laptop - 12th Gen Intel Core i5-1235U - 1080p - Windows 11",Laptops & Notebook Computers,449.99,599.99,150.0,Dollars Off,4.0,45
+29,"Acer Swift Edge 16"" 4K OLED Laptop - AMD Ryzen 7-7735U - Windows 11",Laptops & Notebook Computers,699.99,999.99,300.0,Dollars Off,4.0,21
+24,Acer Nitro 16” Gaming Laptop - 13th Gen Intel i7-13620H - GeForce RTX 4050 - 165Hz 1920 x 1200 Display - Window 11,Laptops & Notebook Computers,799.99,999.99,200.0,Dollars Off,3.0,2
+10,"ASUS 17.3"" VivoBook Laptop - AMD Ryzen 7 7730U - 1080p - Windows 11",Laptops & Notebook Computers,899.99,899.99,0.0,No Discount,4.2,58
+259,"Lenovo Flex 5 14"" Touchscreen 2-in-1 Laptop -  AMD Ryzen 7 7730U - 1200p - Windows 11",Laptops & Notebook Computers,849.99,849.99,0.0,No Discount,4.3,62
+243,"LG Gram Pro 16"" Intel Evo Platform Laptop - 13th Gen Intel Core i7-1360P - GeForce RTX 3050 - 2560 x 1600 - Windows 11",Laptops & Notebook Computers,1299.99,1699.99,400.0,Dollars Off,4.2,58
+305,MSI Prestige 16 Intel Evo Edition powered by Intel Core Ultra 7 processor 155H - QHD+ (2560 X 1600) Windows 11,Laptops & Notebook Computers,1399.99,1399.99,0.0,No Discount,,0
+306,"MSI Prestige 16"" Intel Evo Platform Laptop - 13th Gen Intel Core i7-13700H  - QHD+ (2560 x 1600) - Windows 11 ",Laptops & Notebook Computers,1299.99,1299.99,0.0,No Discount,4.1,30
+9,"ASUS 16"" ROG Strix G16 Laptop - Intel Core i7-13650HX - GeForce RTX  4050 - 1920x 1200 - Windows 11",Laptops & Notebook Computers,1299.99,1549.99,250.0,Dollars Off,4.6,7
+169,"HP ENVY x360 15.6"" Touchscreen 2-in-1 Laptop - AMD Ryzen 7 7730U - 1080p - Windows 11",Laptops & Notebook Computers,799.99,949.99,150.0,Dollars Off,4.4,43
+163,"HP ENVY 16"" Touchscreen Laptop - 13th Gen Intel Core i7-13700H - GeForce RTX 4060 - WQXGA (2560 x 1600) 48-120Hz",Laptops & Notebook Computers,1799.99,1799.99,0.0,No Discount,4.2,68
+31,Acer Swift Go 14” Touchscreen Laptop - Intel Core Ultra 7 Processor - LCD (1920 x 1200) Display - Windows 11,Laptops & Notebook Computers,949.99,949.99,0.0,No Discount,,0
+17,Acer Aspire 17.3” Laptop – 13th Gen Intel Core i5-1335U Processor – 1080p – Window 11,Laptops & Notebook Computers,799.99,799.99,0.0,No Discount,,0
+7,"ASUS 14"" Vivobook Laptop - AMD Ryzen 7 7730U - Mobile Processor (1920 x 1200) - Windows 11",Laptops & Notebook Computers,649.99,649.99,0.0,No Discount,3.3,10
+279,"Lenovo LOQ 15.6"" Gaming Laptop - 13th Gen Intel Core i5-13420H - GeForce RTX 2050 - 144HZ  -  1080p - Windows 11",Laptops & Notebook Computers,599.97,599.97,0.0,No Discount,4.7,23
+142,"HP 14"" Laptop - 13th Gen Intel Core i3-1315U - 1080p - Includes Wireless Mouse - Windows 11",Laptops & Notebook Computers,499.99,499.99,0.0,No Discount,4.5,93
+275,"Lenovo LEGION 5i Pro 16"" Gaming Laptop - 11th Gen Intel Core i7-11800H - 165Hz 2560 x 1600 Display - Storm Gray - Windows 11",Laptops & Notebook Computers,1299.99,1299.99,0.0,No Discount,4.5,60
+245,"LG Gram SuperSlim 15.6"" OLED Intel Evo Platform Laptop - 13th Gen Intel Core i7-1360P - OLED FHD Display (1920 x 1080) - Windows 11",Laptops & Notebook Computers,1699.99,1699.99,0.0,No Discount,2.0,1
+285,"Lenovo ThinkPad Z16 16"" Touchscreen Laptop - AMD Ryzen 7 Pro 6850H - Windows 11",Laptops & Notebook Computers,1499.99,1499.99,0.0,No Discount,3.7,3
+340,"Microsoft Surface Laptop Studio 2 -  14.4"" Touchscreen 2-in-1 Laptop- Intel Evo Platform 13th Gen Intel Core i7-13700H Processor - GeForce RTX 4050 - Windows 11",Laptops & Notebook Computers,2399.99,2399.99,0.0,No Discount,,0
+181,"HP Victus 16.1"" Laptop - 13th Gen Intel Core i7-13700H - GeForce RTX 4070 - 1080p 144Hz",Laptops & Notebook Computers,1299.99,1299.99,0.0,No Discount,4.2,23
+268,"Lenovo IdeaPad 5 15.6"" Touchscreen Laptop - 11th Gen Intel Core i7-1165G7 - 1080p",Laptops & Notebook Computers,799.99,799.99,0.0,No Discount,4.2,380
+248,"LG Ultra PC 16.0"" Lightweight Laptop - AMD Ryzen 7-5825U - AMD Radeon Vega Graphics - Windows 11",Laptops & Notebook Computers,999.99,999.99,0.0,No Discount,4.3,48
+28,"Acer Swift Edge 16"" 4K OLED Laptop - AMD Ryzen 7-6800U - Windows 11",Laptops & Notebook Computers,1499.99,1499.99,0.0,No Discount,3.8,96
+313,"Mac mini – Apple M2 Chip 8-core CPU, 10-core GPU – 8GB Memory – 256GB SSD –  Silver",Mini PC Desktop Computer & PCs,579.99,579.99,0.0,No Discount,4.7,186
+315,"Mac mini – Apple M2 Pro Chip 10-core CPU, 16-core GPU – 16GB Memory – 512GB SSD –  Silver",Mini PC Desktop Computer & PCs,1249.99,1249.99,0.0,No Discount,4.7,129
+314,"Mac mini – Apple M2 Chip 8-core CPU, 10-core GPU – 8GB Memory – 512GB SSD –  Silver",Mini PC Desktop Computer & PCs,769.99,769.99,0.0,No Discount,4.7,137
+311,"Mac Studio: Apple M2 Max chip with 12‑core CPU, 30‑core GPU, 512GB SSD ",Mini PC Desktop Computer & PCs,1949.99,1949.99,0.0,No Discount,5.0,15
+312,"Mac Studio: Apple M2 Ultra chip with 24‑core CPU, 60‑core GPU, 1TB SSD",Mini PC Desktop Computer & PCs,3799.99,3799.99,0.0,No Discount,5.0,8
+14,Acer 27” Class FHD IPS Monitor ,Monitors,99.99,149.99,50.0,Dollars Off,4.6,191
+250,"LG UltraGear 32"" Class QHD Gaming Monitor",Monitors,229.99,299.99,70.0,Dollars Off,4.5,542
+400,"Samsung 32"" Class ViewFinity UR90 4K UHD Curved Monitor",Monitors,279.99,399.99,120.0,Dollars Off,4.3,2159
+215,"LG 35"" Class UltraWide Curved WQHD HDR10 Monitor ",Monitors,349.99,349.99,0.0,Free Shipping,4.6,3126
+213,"LG 27"" Class FHD IPS FreeSync Monitor",Monitors,179.99,179.99,0.0,No Discount,4.6,2058
+15,Acer 27” Class WQHD Curved Gaming Monitor,Monitors,169.99,249.99,80.0,Dollars Off,4.5,102
+212,LG 24” Class QHD IPS Monitor Ergo Dual with USB-C and DP Daisy Chain,Monitors,379.99,599.99,220.0,Dollars Off,4.3,70
+26,"Acer Nitro 34"" Class UWQHD Curved Gaming Monitor ",Monitors,299.99,299.99,0.0,No Discount,4.3,94
+399,"Samsung 32"" Class S30B Series FHD AMD FreeSync Monitor",Monitors,199.99,199.99,0.0,No Discount,4.4,242
+401,Samsung 32” Class M50C Series FHD Smart Monitor,Monitors,219.99,269.99,50.0,Dollars Off,3.6,5
+25,Acer Nitro 32” Class FHD Curved Monitor,Monitors,169.99,199.99,30.0,Dollars Off,4.6,32
+297,"MSI 27"" WQHD IPS Nvidia G-Sync Gaming Monitor",Monitors,219.99,219.99,0.0,No Discount,4.9,10
+405,"Samsung 49"" Class Odyssey CRG9 Series DQHD Curved Gaming Monitor",Monitors,799.99,799.99,0.0,Limited Time Price,4.5,358
+13,Acer 24” Class FHD Monitor,Monitors,99.99,99.99,0.0,No Discount,,0
+295,"MSI 27"" FHD IPS Nvidia G-Sync Gaming Monitor Optix G273",Monitors,139.99,179.99,40.0,Dollars Off,4.6,577
+214,"LG 32"" Class FHD IPS FreeSync Monitor",Monitors,229.99,229.99,0.0,No Discount,4.6,889
+397,"Samsung 27"" Class CF39 Series FHD FreeSync™ Curved Monitor",Monitors,179.99,179.99,0.0,No Discount,4.6,4056
+251,"LG UltraGear 49"" Class DQHD Curved Gaming Monitor",Monitors,999.99,999.99,0.0,No Discount,,0
+450,Samsung Odyssey 32” Class G65B Series QHD 240Hz Curved Gaming Monitor ,Monitors,449.99,749.99,300.0,Dollars Off,3.7,6
+296,"MSI 27"" WQHD 165Hz AMD FreeSync Curved Gaming Monitor ",Monitors,199.99,199.99,0.0,No Discount,4.3,66
+16,Acer 31.5” Class WQHD Curved Gaming Monitor,Monitors,249.99,249.99,0.0,No Discount,4.4,31
+100,"Dell 32"" Class FHD AMD FreeSync Curved Monitor",Monitors,229.99,229.99,0.0,No Discount,4.5,252
+402,"Samsung 34” ViewFinity S65UA UWQHD Curved Monitor, $40 Costco Shop Card Included",Monitors,599.99,599.99,0.0,No Discount,4.0,2
+249,"LG UltraGear 27"" Class QHD IPS Gaming Monitor ",Monitors,279.99,279.99,0.0,No Discount,4.6,26
+334,"Masingo Smart Karaoke Machine with 15"" Touchscreen Display, WiFi, Speaker & 2 Wireless Microphones - Allegro X8 2.0",Musical Instruments,419.99,419.99,0.0,No Discount,,0
+89,Casio CT-X700 Premium Portable Keyboard Bundle,Musical Instruments,209.99,209.99,0.0,No Discount,4.5,187
+335,"Masingo Smart Karaoke Machine with 15"" Touchscreen Display, WiFi, Speaker & 2 Wireless Microphones - Alto X6 2.0",Musical Instruments,339.99,339.99,0.0,No Discount,,0
+384,Roland FRP-2-ACR Digital Piano Bundle,Musical Instruments,699.99,699.99,0.0,No Discount,4.8,76
+458,"Singing Machine Premium WiFi Karaoke System with 10.1"" Touchscreen Display",Musical Instruments,199.99,199.99,0.0,No Discount,3.3,52
+383,Roland CPF-107 Contemporary Digital Piano Bundle,Musical Instruments,1049.99,1049.99,0.0,No Discount,4.3,43
+90,Casio PX-770 Premium Digital Piano Bundle,Musical Instruments,849.99,849.99,0.0,No Discount,4.4,71
+88,Casio AP-265 Celviano Digital Piano with Bench,Musical Instruments,999.99,999.99,0.0,No Discount,4.5,14
+65,Artesia Pro a5 Grand Digital Piano,Musical Instruments,2999.99,2999.99,0.0,No Discount,5.0,1
+516,Washburn Festival EA15ATB Acoustic Electric Guitar,Musical Instruments,229.99,229.99,0.0,No Discount,4.3,31
+63,Artesia Pro a24 Upright Digital Piano,Musical Instruments,999.99,999.99,0.0,No Discount,4.8,4
+62,Artesia DP-150e Plus Digital Upright Piano Bundle,Musical Instruments,1199.99,1199.99,0.0,No Discount,4.4,410
+382,Roland CG-1 Mini Grand Digital Piano Bundle,Musical Instruments,4999.99,4999.99,0.0,No Discount,4.6,72
+388,Roland V-Drum Kits Bundle - TD-27K-SC,Musical Instruments,2499.99,2499.99,0.0,No Discount,4.7,36
+385,Roland RCP-800 Digital Piano Bundle ,Musical Instruments,1999.99,1999.99,0.0,No Discount,4.7,88
+64,Artesia Pro a3 Micro Digital Grand Piano,Musical Instruments,1999.99,1999.99,0.0,No Discount,4.5,4
+389,Roland V-Drums Acoustic Design Bundle - VAD-506C,Musical Instruments,4599.99,4599.99,0.0,No Discount,,0
+129,EFNOTE 051 Electronic Drum Kit,Musical Instruments,3799.99,3799.99,0.0,No Discount,,0
+387,Roland V-Drum Kit Pedal - TD-07KX,Musical Instruments,1399.99,1399.99,0.0,No Discount,4.5,25
+386,Roland RP750 Digital Piano Bundle ,Musical Instruments,1499.99,1499.99,0.0,No Discount,4.1,21
+356,Ooma Telo Air 2 Wireless Wi-Fi Home Phone Service with 3 Cordless Handsets,Phones & Two-way Radios,99.99,149.99,50.0,Dollars Off,4.1,682
+357,Panasonic KX-TG994 DECT 6.0 Bluetooth 4-Handset Phone Bundle,Phones & Two-way Radios,89.99,89.99,0.0,No Discount,4.4,3082
+12,AT&T DLP72362 3 Handset Cordless Phone with Connect to Cell ,Phones & Two-way Radios,59.99,59.99,0.0,No Discount,4.2,484
+354,Ooma Telo Air 2 Wireless Wi-Fi Home Phone Service with 1 Cordless Handset,Phones & Two-way Radios,99.99,99.99,0.0,No Discount,4.3,1926
+355,Ooma Telo Air 2 Wireless Wi-Fi Home Phone Service with 1 Cordless Handset – White,Phones & Two-way Radios,99.99,99.99,0.0,No Discount,4.2,324
+186,"Hisense 100"" - L5G Series - Ultra Short Throw Smart Laser TV Projector with ALR Screen",Projectors,2499.99,2499.99,0.0,Limited Time Price,3.8,63
+188,"Hisense 120"" - L5G Series - Ultra Short Throw Smart Laser TV Projector with ALR Screen",Projectors,2999.99,2999.99,0.0,Limited Time Price,3.8,63
+510,"TP-Link Deco AX5000 Mesh Wi-Fi, 3-pack","Routers, Wifi Extenders & Modems",179.99,249.99,70.0,Dollars Off,4.3,67
+140,"Google Nest Wifi Pro, Wi-Fi 6E, 4-pack","Routers, Wifi Extenders & Modems",369.99,449.99,80.0,Dollars Off,3.7,211
+349,"NETGEAR – Nighthawk AX5400 Wi-Fi 6 Router, One year Advanced Internet Security Included","Routers, Wifi Extenders & Modems",199.99,199.99,0.0,No Discount,4.1,356
+511,"TP-Link Deco AXE5300 Wi-Fi 6E Tri-Band Whole-Home Mesh Wi-Fi System, 3-Pack","Routers, Wifi Extenders & Modems",349.99,349.99,0.0,No Discount,4.3,763
+507,TP-Link AX5400 Multi-Gigabit Wi-Fi 6 Router,"Routers, Wifi Extenders & Modems",149.99,149.99,0.0,No Discount,4.1,7
+530,"eero 6 Mesh Wi-Fi System, 4-pack, One Year eero Plus Security Included","Routers, Wifi Extenders & Modems",229.99,229.99,0.0,No Discount,4.0,35
+514,TP-Link Indoor/Outdoor Whole Home Mesh Wi-Fi 6 System,"Routers, Wifi Extenders & Modems",279.99,279.99,0.0,No Discount,4.5,35
+394,"STARLINK Flat High Performance Kit, High-Speed, Low Latency Internet + 2 Months of Service Credit","Routers, Wifi Extenders & Modems",2499.99,2499.99,0.0,No Discount,5.0,2
+350,"NETGEAR – Orbi RBK843S AX6000 Wi-Fi 6 Mesh System, One Year Advanced Cyber Security Included","Routers, Wifi Extenders & Modems",749.99,749.99,0.0,No Discount,4.2,216
+508,"TP-Link Archer AXE7800 Tri-Band Wi-Fi 6E Multi-Gig Router, 2.5 Gbps Port","Routers, Wifi Extenders & Modems",279.99,279.99,0.0,No Discount,4.4,324
+512,TP-Link Deco BE16000 Quad-Band Mesh Wi-Fi 7 System		,"Routers, Wifi Extenders & Modems",849.99,849.99,0.0,No Discount,3.3,17
+348,NETGEAR - Orbi AX5400 Wi-Fi 6 Mesh System,"Routers, Wifi Extenders & Modems",549.99,549.99,0.0,No Discount,4.1,277
+513,"TP-Link Deco X60 Wi-Fi 6 AX3000 Whole-Home Mesh Wi-Fi System, 3-Pack","Routers, Wifi Extenders & Modems",239.99,239.99,0.0,No Discount,4.4,3328
+509,TP-Link Archer BE19000 Tri-Band Wi-Fi 7 Router - BE805,"Routers, Wifi Extenders & Modems",499.99,499.99,0.0,No Discount,,0
+371,Ring Battery Doorbell Plus and Indoor Cam (Gen 2) with Included Manual Privacy Cover,Smart Home & Safety,179.99,179.99,0.0,No Discount,4.6,247
+376,Ring Stick Up Cam Battery (3rd gen) + Mounts - 3 pack,Smart Home & Safety,249.99,249.99,0.0,No Discount,4.5,2541
+139,Google Nest Learning Thermostat with Nest Temperature Sensor,Smart Home & Safety,249.99,249.99,0.0,No Discount,4.6,4297
+61,Arlo Ultra 2 Spotlight Camera Wire Free Security System 4 pack with Total Security Mount,Smart Home & Safety,899.99,899.99,0.0,No Discount,4.0,1600
+375,Ring Security Floodlight Cam Wired Pro with Stick Up Cam Battery (3rd gen),Smart Home & Safety,279.99,279.99,0.0,No Discount,4.6,1118
+369,"Ring Alarm 8-piece Home Security Kit (Gen 2) with Included Panic Button, Motion Detector and Contact Sensors",Smart Home & Safety,199.99,199.99,0.0,No Discount,4.7,71
+58,Arlo Pro 3 Floodlight Camera with Solar Panel,Smart Home & Safety,249.99,249.99,0.0,No Discount,4.2,456
+79,Blink Whole Home Security Camera System Bundle ,Smart Home & Safety,189.99,299.99,110.0,Dollars Off,4.0,75
+529,ecobee Smart Thermostat Premium Plus Pack (Includes 2x SmartSensor),Smart Home & Safety,239.99,239.99,0.0,No Discount,4.6,130
+133,"Feit Electric Wi-Fi Smart Dimmer, 3-pack",Smart Home & Safety,44.99,44.99,0.0,No Discount,4.0,913
+130,Feit Electric LED 1080P HD Smart Flood Security Light,Smart Home & Safety,109.99,109.99,0.0,No Discount,3.9,2949
+374,"Ring Security Alarm 14-piece Kit (Gen 2) with Stick Up Cam, Smoke/Co Listener and Range Extender ",Smart Home & Safety,349.99,349.99,0.0,No Discount,4.7,355
+67,Atomi Smart Wifi Wall Light/ Sconce 2-pack,Smart Home & Safety,119.99,119.99,0.0,No Discount,4.1,314
+372,"Ring Door/Window Alarm Sensors, 4-pack",Smart Home & Safety,65.99,65.99,0.0,No Discount,4.7,1138
+526,Yale Assure Lock SL- Touchscreen Wi-Fi Smart Lock with Matching Lever,Smart Home & Safety,169.99,199.99,30.0,Dollars Off,3.6,5
+132,"Feit Electric Wi-Fi Smart Bulbs, 4-pack",Smart Home & Safety,29.99,29.99,0.0,No Discount,4.2,4641
+373,Ring Floodlight Cam Wired Plus with Chime Pro 2.0 (2nd gen),Smart Home & Safety,219.99,219.99,0.0,No Discount,4.6,605
+377,Ring Stick Up Cam Wired (3rd gen) + Mounts 3 pack,Smart Home & Safety,249.99,249.99,0.0,No Discount,4.5,350
+396,SWANN 4K UHD 16-Channel 16-PoE Cameras 2TB NVR Wired Security System,Smart Home & Safety,999.99,999.99,0.0,No Discount,4.0,9
+370,"Ring Alarm Motion Detector, 2-pack",Smart Home & Safety,49.99,49.99,0.0,No Discount,4.7,785
+515,"Tapo Mini Smart Wi-Fi Plug 4 Pack, Matter Certified ",Smart Home & Safety,31.99,31.99,0.0,No Discount,4.4,40
+57,Arlo Essential Wired Video Doorbell,Smart Home & Safety,59.99,59.99,0.0,No Discount,4.2,33
+60,"Arlo Solar Panel Charger, 2-pack",Smart Home & Safety,99.99,99.99,0.0,No Discount,4.4,401
+131,Feit Electric Smart Video Doorbell With Wi-Fi Camera,Smart Home & Safety,59.99,59.99,0.0,No Discount,3.7,548
+77,"Blink - 8 Camera Security System - 6 Outdoor, 2 Mini Indoor Plug-in Cameras, with Yard Sign",Smart Home & Safety,449.99,449.99,0.0,No Discount,4.9,8
+56,Arlo Essential Wire-Free Video Doorbell with Chime 2 Bundle,Smart Home & Safety,139.99,139.99,0.0,No Discount,3.8,519
+358,"Philips Hue Dimmer Switch with Remote, 2 pack",Smart Home & Safety,39.99,39.99,0.0,No Discount,4.8,49
+3,ADT 13-piece Smart Home Security System with Google Nest Products & Pro Installation Included,Smart Home & Safety,799.99,799.99,0.0,No Discount,4.4,50
+454,"SimpliSafe Home Security Kit, 10-piece",Smart Home & Safety,249.99,249.99,0.0,No Discount,4.8,40
+497,Swann Home 8 Camera 8 Channel 1080p Full HD DVR Audio/Video Security System - SWDVK-846808MQBWF,Smart Home & Safety,319.99,319.99,0.0,No Discount,3.8,32
+455,"SimpliSafe Home Security Kit, 13-piece",Smart Home & Safety,349.99,349.99,0.0,No Discount,4.5,44
+494,Swann 4K UHD 8-Channel 8-PoE Cameras 1TB NVR Wired Security System,Smart Home & Safety,529.99,529.99,0.0,No Discount,,0
+498,"Swann Home 8-Channel, 6-Camera Indoor/Outdoor Wired 1080p Full HD 1TB DVR Security System with Yard Stake",Smart Home & Safety,279.99,279.99,0.0,No Discount,3.9,446
+66,"Atomi Smart Color Changing LED Pathway Lights, 4-pack Starter Kit",Smart Home & Safety,199.99,199.99,0.0,No Discount,4.3,225
+457,Simplisafe Entry Sensor (6 pack)			,Smart Home & Safety,64.99,64.99,0.0,No Discount,4.9,113
+456,"SimpliSafe Outdoor Security Cameras, 2-pack",Smart Home & Safety,299.99,299.99,0.0,No Discount,4.5,19
+366,Reolink - 8 Channel 4K+ Ultra HD 12MP NVR PoE Smart Security System,Smart Home & Safety,749.99,749.99,0.0,No Discount,4.4,13
+359,"Philips Hue White & Color Play Light Bar, 3-pack",Smart Home & Safety,149.99,149.99,0.0,No Discount,4.7,272
+499,"Swann Professional 4K Ultra HD Indoor/Outdoor Wired Security Camera System, 16- Channel NVR 4TB HDD, 8 Bullet & 8 Dome Cameras w/ Two-Way Audio & Siren",Smart Home & Safety,1699.99,1699.99,0.0,No Discount,3.2,38
+346,Moen Flo Smart Water Monitor & Shutoff with 2 Smart Leak Detectors,Smart Home & Safety,449.99,449.99,0.0,No Discount,,0
+367,Reolink - 8-Channel 4K+ UHD 12MP 6-Cam Wired Security System,Smart Home & Safety,699.99,699.99,0.0,No Discount,3.5,4
+76,"Blink - 3 Camera Security System - 2 Outdoor and 1 Mini Pan-Tilt Cameras, with Yard Sign",Smart Home & Safety,219.99,219.99,0.0,No Discount,4.1,16
+368,Reolink - Argus 4K Ultra PT Spotlight Security Battery Camera Kit,Smart Home & Safety,149.99,149.99,0.0,No Discount,3.7,25
+496,"Swann Home 16-Channel, 12-Camera Indoor/Outdoor Wired 4K Ultra HD 4TB DVR Security System and Wi-Fi Extender",Smart Home & Safety,799.99,799.99,0.0,No Discount,3.8,41
+288,Lorex 2K Battery Video Doorbell With Color Night Vision & Wi-Fi Chime Box,Smart Home & Safety,199.99,199.99,0.0,No Discount,3.3,12
+378,Ring Video Doorbell Pro 2 (2021 release) and Ring Stick up Security Cam Bundle,Smart Home & Safety,299.99,299.99,0.0,No Discount,4.4,573
+363,"Rachio 3 Smart Sprinkler Controller, 12-Zone",Smart Home & Safety,199.99,199.99,0.0,No Discount,4.7,3712
+85,Brilliant Smart Home Control Wired Switch Control with Additional Dimmer Switch,Smart Home & Safety,399.99,399.99,0.0,No Discount,,0
+287,Lorex 2K Battery Doorbell with 4K Spotlight Wi-Fi Camera,Smart Home & Safety,319.99,319.99,0.0,No Discount,1.0,1
+4,ADT 9-piece Smart Home Security System with Google Nest Products & Pro Installation Included,Smart Home & Safety,499.99,499.99,0.0,No Discount,3.6,11
+493,"Swann - WiFi Security 4-Cam 2K Kit 1TB Tower, Solar Panels & Extra Battery",Smart Home & Safety,499.99,499.99,0.0,No Discount,1.6,5
+500,Swann Wireless Security 3-Cam 2K Kit with 64GB Storage Hub Tower and LED Spotlights,Smart Home & Safety,319.99,319.99,0.0,No Discount,1.9,10
+84,Brilliant Smart Home Control Panel - Plug-In,Smart Home & Safety,329.99,329.99,0.0,No Discount,4.5,4
+290,"Lorex 4K 32-Channel Wired Pro NVR, 18 Camera Security System",Smart Home & Safety,5199.99,5199.99,0.0,No Discount,,0
+48,Apple Watch Series 9 (GPS),Smart Watches,389.99,389.99,0.0,No Discount,4.7,825
+49,Apple Watch Series 9 (GPS) with Sport Loop,Smart Watches,389.99,389.99,0.0,No Discount,4.6,314
+51,Apple Watch Ultra 2 (GPS + Cellular),Smart Watches,779.99,779.99,0.0,No Discount,4.6,167
+45,Apple Watch SE (2nd Generation) (GPS) Sport Band,Smart Watches,219.99,239.99,20.0,Dollars Off,4.5,125
+47,Apple Watch Series 9 (GPS + Cellular),Smart Watches,489.99,489.99,0.0,No Discount,4.7,170
+46,Apple Watch SE (2nd Generation) (GPS) Sport Loop,Smart Watches,219.99,239.99,20.0,Dollars Off,4.6,72
+50,Apple Watch Series 9 (GPS + Cellular) with Sport Loop,Smart Watches,489.99,489.99,0.0,No Discount,4.4,71
+443,"Samsung Galaxy Watch 6 Classic 47mm Smartwatch, 2 Fast Chargers Included",Smart Watches,419.99,419.99,0.0,No Discount,5.0,4
+44,Apple Watch SE (2nd Generation) (GPS + Cellular) Sport Loop,Smart Watches,269.99,289.99,20.0,Dollars Off,4.9,8
+134,Fitbit Versa 2 Smartwatch - Black - Additional Band Included,Smart Watches,139.99,139.99,0.0,No Discount,4.4,2568
+43,Apple Watch SE (2nd Generation) (GPS + Cellular) Sport Band,Smart Watches,269.99,289.99,20.0,Dollars Off,4.3,24
+444,"Samsung Galaxy Watch6 40mm Smartwatch, Two Fast Chargers Included",Smart Watches,289.99,289.99,0.0,No Discount,4.5,162
+445,"Samsung Galaxy Watch6 44mm Smartwatch, Two Fast Chargers Included",Smart Watches,319.99,319.99,0.0,No Discount,4.6,100
+447,Samsung HW-C43C 2.1 ch DTS Virtual:X Soundbar With Subwoofer,Soundbars & Home Theater,129.99,159.99,30.0,Dollars Off,4.5,101
+448,Samsung HW-S68CB 5.1 Channel Soundbar & Subwoofer Bundle with Dolby Atmos,Soundbars & Home Theater,259.99,379.99,120.0,Dollars Off,4.3,55
+246,LG S77S 3.1.3 Channel High Res Audio Sound Bar with Dolby Atmos and WOW Orchestra,Soundbars & Home Theater,399.99,399.99,0.0,No Discount,4.0,71
+80,Bose Solo Soundbar 2,Soundbars & Home Theater,199.99,199.99,0.0,No Discount,4.3,220
+488,Sony HT-SC40 2.1ch Soundbar with Wireless Subwoofer,Soundbars & Home Theater,199.99,199.99,0.0,No Discount,4.2,346
+121,Denon AVR S760H 75W 7.2ch 8K AV Receiver,Soundbars & Home Theater,449.99,449.99,0.0,No Discount,4.5,1340
+527,Yamaha ATS-1090 Sound Bar with Built-in Subwoofers,Soundbars & Home Theater,149.99,149.99,0.0,No Discount,4.0,322
+466,Sonos Beam (Gen 2) Soundbar Bundle,Soundbars & Home Theater,499.99,499.99,0.0,No Discount,4.5,729
+465,Sonos Arc Soundbar Bundle,Soundbars & Home Theater,899.99,899.99,0.0,No Discount,4.6,251
+247,LG SP7R 7.1 Channel High Res Audio Sound Bar with Rear Speaker Kit,Soundbars & Home Theater,269.99,269.99,0.0,No Discount,4.0,374
+204,JBL Cinema SB190 2.1 Channel Soundbar with Virtual Dolby Atmos and Wireless Subwoofer,Soundbars & Home Theater,189.99,189.99,0.0,No Discount,4.1,187
+449,Samsung HW-S80CB/ZA 3.1.2 Channel Soundbar with Dolby Atmos and DTS Virtual: X,Soundbars & Home Theater,599.99,599.99,0.0,Limited Time Price,4.3,68
+82,Bose Soundbar 550,Soundbars & Home Theater,449.99,449.99,0.0,No Discount,3.9,112
+209,Klipsch KD-51M Passive 160W Bookshelf Speakers (Pair),Soundbars & Home Theater,149.99,149.99,0.0,No Discount,,0
+353,Onkyo TX-SR393 80W 5.2-Channel AV Receiver with Dolby Atmos ,Soundbars & Home Theater,279.99,279.99,0.0,No Discount,4.5,54
+122,Denon C210 Soundbar ,Soundbars & Home Theater,199.99,199.99,0.0,No Discount,4.2,40
+211,Klipsch Reference Dolby Atmos 5.0.2 Surround System,Soundbars & Home Theater,1799.99,1799.99,0.0,No Discount,4.7,54
+446,Samsung HW-B57C 4.1ch Soundbar with Dolby Audio and Rear Speaker Kit Included,Soundbars & Home Theater,99.97,99.97,0.0,No Discount,4.0,220
+81,Bose SoundLink Flex SE Bluetooth Speaker,Speakers & Voice Assistants,129.99,129.99,0.0,No Discount,4.7,1607
+252,LG XBoom Go XG5 Portable Wireless Speaker,Speakers & Voice Assistants,69.99,69.99,0.0,Limited Time Price,4.0,7
+199,HomePod mini,Speakers & Voice Assistants,94.99,94.99,0.0,No Discount,4.5,1597
+467,Sonos Era 100 Speakers 2-pack,Speakers & Voice Assistants,469.99,469.99,0.0,No Discount,4.6,264
+362,Precision Pro Ace GPS Speaker (V2),Speakers & Voice Assistants,49.99,49.99,0.0,No Discount,4.6,7
+207,Klipsch GIG XXL Portable Wireless Party Speaker with Mic,Speakers & Voice Assistants,199.99,199.99,0.0,No Discount,4.3,84
+36,Apple HomePod (2nd Gen),Speakers & Voice Assistants,289.99,289.99,0.0,No Discount,4.4,104
+200,ION Audio Pathfinder Go All Weather Portable Bluetooth Speaker,Speakers & Voice Assistants,99.99,99.99,0.0,No Discount,4.4,415
+210,Klipsch R-120SWi Wireless Subwoofer,Speakers & Voice Assistants,249.99,249.99,0.0,No Discount,4.7,142
+86,CHARGE 5 Wi-Fi Portable Waterproof Speaker with Powerbank,Speakers & Voice Assistants,179.99,179.99,0.0,No Discount,4.5,257
+468,Sonos Move 2 Portable Wireless Speaker (Each),Speakers & Voice Assistants,449.99,449.99,0.0,No Discount,4.6,17
+209,Klipsch KD-51M Passive 160W Bookshelf Speakers (Pair),Speakers & Voice Assistants,149.99,149.99,0.0,No Discount,,0
+469,Sonos Move Portable Wireless Speaker,Speakers & Voice Assistants,399.99,399.99,0.0,No Discount,4.4,317
+203,JBL Boombox 3 Wi-Fi Portable Wireless Speaker,Speakers & Voice Assistants,499.99,499.99,0.0,No Discount,4.6,111
+470,Sonos Sub (Gen 3) Wireless Subwoofer,Speakers & Voice Assistants,799.99,799.99,0.0,No Discount,4.8,199
+208,Klipsch Groove XXL Portable Bluetooth Speaker,Speakers & Voice Assistants,249.99,249.99,0.0,No Discount,4.6,100
+138,"Google Nest Hub (2nd Gen), 2-pack",Speakers & Voice Assistants,179.99,179.99,0.0,No Discount,4.5,611
+492,Sony XB-33 Extra Bass Wireless Bluetooth Speaker,Speakers & Voice Assistants,119.99,119.99,0.0,No Discount,4.5,208
+91,"Chromecast with Google TV (4K), 2-pack",Streaming Devices,79.99,79.99,0.0,No Discount,4.6,202
+42,Apple TV 4K 64GB (3rd generation) - Wi-Fi,Streaming Devices,124.99,124.99,0.0,No Discount,4.7,528
+434,"Samsung 85"" Class - QN85C Series - 4K UHD Neo QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,2299.99,2299.99,0.0,Limited Time Price,4.6,813
+241,"LG 86"" Class - UR8000 Series - 4K UHD LED LCD TV",TVs,1099.99,1099.99,0.0,Limited Time Price,4.5,4317
+486,"Sony 85"" Class - X90CL Series - 4K UHD LED LCD TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,2199.99,2199.99,0.0,Limited Time Price,4.7,534
+435,"Samsung 85"" Class - QN90C Series - 4K UHD Neo QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,2799.99,2799.99,0.0,Limited Time Price,4.7,368
+483,"Sony 77"" Class - A80CL Series - 4K UHD OLED TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,2899.99,2899.99,0.0,Limited Time Price,4.7,580
+233,"LG 75"" Class - UQ8000 Series - 4K UHD LED LCD TV",TVs,579.99,579.99,0.0,No Discount,4.4,4332
+424,"Samsung 75"" Class - Q70C Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,1199.99,1199.99,0.0,Limited Time Price,4.6,881
+228,"LG 65"" Class - UR8000 Series - 4K UHD LED LCD TV",TVs,429.99,429.99,0.0,Limited Time Price,4.5,4317
+408,"Samsung 55"" Class - CU7000D Series - 4K UHD LED LCD TV",TVs,379.99,379.99,0.0,No Discount,4.5,4440
+218,"LG 43"" Class - UR8000 Series - 4K UHD LED LCD TV",TVs,279.99,279.99,0.0,Limited Time Price,4.5,4317
+227,"LG 65"" Class - QNED75 Series - 4K UHD QNED TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,749.99,749.99,0.0,Limited Time Price,4.4,162
+414,"Samsung 65"" Class - CU7000D Series - 4K UHD LED LCD TV",TVs,479.99,479.99,0.0,Free Shipping,4.5,4440
+422,"Samsung 75"" Class - CU7000D Series - 4K UHD LED LCD TV",TVs,649.99,649.99,0.0,Limited Time Price,4.5,4440
+501,"TCL 43"" Class - Q570F Series - 4K UHD QLED LCD TV",TVs,179.99,179.99,0.0,No Discount,4.3,133
+225,"LG 65"" Class - OLED C3 Series - 4K UHD OLED TV -  Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1799.99,1799.99,0.0,Limited Time Price,4.7,1404
+411,"Samsung 55"" Class - QN85C Series - 4K UHD Neo QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,1199.99,1199.99,0.0,Limited Time Price,4.7,47
+415,"Samsung 65"" Class - OLED S90 Series - 4K UHD TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1799.99,1799.99,0.0,Limited Time Price,4.7,889
+224,"LG 55"" Class - UR8000 Series - 4K UHD LED LCD TV",TVs,379.99,379.99,0.0,Limited Time Price,4.5,4317
+504,"TCL 58"" Class - S470G Series - 4K UHD LED LCD TV",TVs,279.99,279.99,0.0,Limited Time Price,4.2,1091
+235,"LG 77"" Class - OLED C3 Series - 4K UHD OLED TV -  Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,2699.99,2699.99,0.0,Limited Time Price,4.7,1404
+403,"Samsung 43"" Class - CU7000D Series - 4K UHD LED LCD TV",TVs,279.99,279.99,0.0,No Discount,4.5,4440
+416,"Samsung 65"" Class - Q60C Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,749.99,749.99,0.0,Limited Time Price,4.6,900
+229,"LG 70"" Class - UR8000 Series - 4K UHD LED LCD TV",TVs,549.99,549.99,0.0,Limited Time Price,4.5,4317
+184,Handy Premier - TV Mounting Service,TVs,79.99,79.99,0.0,No Discount,3.9,627
+310,"MW Mounts 32"" - 90"" Full-Motion TV Mount",TVs,119.99,119.99,0.0,No Discount,4.5,259
+220,"LG 50"" Class - UR8000 Series - 4K UHD LED LCD TV",TVs,349.99,349.99,0.0,Limited Time Price,4.5,4317
+406,"Samsung 50"" Class - CU7000D Series - 4K UHD LED LCD TV",TVs,349.99,349.99,0.0,No Discount,4.5,4440
+412,"Samsung 55"" Class - The Frame Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1199.99,1199.99,0.0,Limited Time Price,4.4,1235
+428,"Samsung 77"" Class - OLED S90 Series - 4K UHD TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,2699.99,2699.99,0.0,Limited Time Price,4.7,889
+391,"SANUS Preferred 37""-90"" Full-Motion TV Mount",TVs,149.99,149.99,0.0,No Discount,4.6,948
+234,"LG 75"" Class - UR8000 Series - 4K UHD LED LCD TV",TVs,679.99,679.99,0.0,Limited Time Price,4.5,4317
+193,"Hisense 55"" Class - A65K Series - 4K UHD LED LCD TV",TVs,279.99,279.99,0.0,Limited Time Price,4.4,1682
+420,"Samsung 65"" Class - QN90C Series - 4K UHD Neo QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,1699.99,1699.99,0.0,Limited Time Price,4.7,366
+392,"SANUS Preferred 42""-90"" Tilting TV Mount",TVs,99.99,99.99,0.0,No Discount,4.7,456
+195,"Hisense 65"" Class - A65K Series - 4K UHD LED LCD TV",TVs,399.99,399.99,0.0,Limited Time Price,4.4,1682
+190,"Hisense 32"" Class - A45KV Series - 720p LED LCD TV",TVs,119.99,119.99,0.0,No Discount,4.2,602
+421,"Samsung 65"" Class - The Frame Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1999.99,1999.99,0.0,No Discount,4.4,1235
+185,Handy Premier - TV Mounting Service with In-wall Wire Concealment,TVs,149.99,149.99,0.0,No Discount,3.6,10701
+390,"SANUS Preferred 26""-55"" Full-Motion TV Mount",TVs,79.99,79.99,0.0,No Discount,4.4,309
+453,"Sanus Home 42""- 86"" Full Motion TV Mount",TVs,89.99,89.99,0.0,No Discount,4.4,49
+506,"TCL 85"" Class - S470G Series - 4K UHD LED LCD TV",TVs,799.99,799.99,0.0,No Discount,4.2,1091
+503,"TCL 50"" Class - S470G Series - 4K UHD LED LCD TV",TVs,249.99,249.99,0.0,Limited Time Price,4.2,1091
+423,"Samsung 75"" Class - Q60C Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,999.99,999.99,0.0,Limited Time Price,4.6,900
+505,"TCL 70"" Class - S470G Series - 4K UHD LED LCD TV",TVs,449.99,449.99,0.0,Limited Time Price,4.2,1091
+473,"Sony 55"" Class - X80CK Series - 4K UHD LED LCD TV",TVs,649.99,649.99,0.0,Limited Time Price,4.6,2425
+393,SANUS Simplicity In-wall Power and Cable Management Kit,TVs,59.99,59.99,0.0,No Discount,4.3,691
+418,"Samsung 65"" Class - Q80C Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,1099.99,1099.99,0.0,Limited Time Price,4.6,511
+192,"Hisense 50"" Class - A65K Series - 4K UHD LED LCD TV",TVs,259.99,259.99,0.0,Limited Time Price,4.4,1682
+197,"Hisense 75"" Class - A65K Series - 4K UHD LED LCD TV",TVs,579.99,579.99,0.0,Limited Time Price,4.4,1673
+476,"Sony 65"" Class - X80CK Series - 4K UHD LED LCD TV ",TVs,799.99,799.99,0.0,Limited Time Price,4.6,2425
+474,"Sony 65"" Class - A80CL Series - 4K UHD OLED TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1999.99,1999.99,0.0,Limited Time Price,4.7,578
+477,"Sony 65"" Class - X90CL Series - 4K UHD LED LCD TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1199.99,1199.99,0.0,Limited Time Price,4.7,534
+217,"LG 42"" Class - OLED C3 Series - 4K UHD OLED TV -  Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1099.99,1099.99,0.0,No Discount,4.7,1404
+223,"LG 55"" Class - QNED75 Series - 4K UHD QNED TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,699.99,699.99,0.0,Limited Time Price,4.4,162
+230,"LG 75"" Class - QNED75 Series - 4K UHD QNED TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,999.99,999.99,0.0,Limited Time Price,4.4,162
+502,"TCL 43"" Class - S470G Series - 4K UHD LED LCD TV",TVs,219.99,219.99,0.0,Limited Time Price,4.2,1091
+194,"Hisense 55"" Class - U75K Series - 4K UHD Mini-LED ULED TV",TVs,599.99,599.99,0.0,Limited Time Price,4.4,359
+219,"LG 48"" Class - OLED C3 Series - 4K UHD OLED TV -  Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1299.99,1299.99,0.0,Limited Time Price,4.7,1404
+236,"LG 77"" Class - OLED G3 Series - 4K UHD OLED TV -  Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,3899.99,3899.99,0.0,Limited Time Price,4.7,259
+481,"Sony 75"" Class - X90CL Series - 4K UHD LED LCD TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1699.99,1699.99,0.0,Limited Time Price,4.7,534
+417,"Samsung 65"" Class - Q70C Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,1099.99,1099.99,0.0,Limited Time Price,4.6,881
+226,"LG 65"" Class - OLED G3 Series - 4K UHD OLED TV -  Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,2699.99,2699.99,0.0,Limited Time Price,4.7,259
+191,"Hisense 43"" Class - A45H Series - 1080p LED LCD TV",TVs,179.99,179.99,0.0,No Discount,4.2,166
+232,"LG 75"" Class - QNED85 Series - 4K UHD QNED MiniLED TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1799.99,1799.99,0.0,No Discount,4.5,320
+222,"LG 55"" Class - OLED C3 Series - 4K UHD OLED TV -  Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1499.99,1499.99,0.0,No Discount,4.7,1404
+231,"LG 75"" Class - QNED80 Series - 4K UHD QNED TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1499.99,1499.99,0.0,No Discount,4.5,234
+187,"Hisense 100"" - L5H Series - Ultra Short Throw Smart Laser TV Projector with ALR Screen",TVs,2999.99,2999.99,0.0,Limited Time Price,2.9,7
+409,"Samsung 55"" Class - OLED S90 Series - 4K UHD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,1599.99,1599.99,0.0,Limited Time Price,4.7,889
+480,"Sony 75"" Class - X80CK Series - 4K UHD LED LCD TV ",TVs,1099.99,1099.99,0.0,Limited Time Price,4.6,2425
+485,"Sony 85"" Class - X80CK Series - 4K UHD LED LCD TV",TVs,1499.99,1499.99,0.0,Limited Time Price,4.6,2425
+471,"Sony 55"" Class - A80CL Series - 4K UHD OLED TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1599.99,1599.99,0.0,Limited Time Price,4.7,580
+425,"Samsung 75"" Class - Q80C Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,1599.99,1599.99,0.0,Limited Time Price,4.6,511
+410,"Samsung 55"" Class - Q60C Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,699.99,699.99,0.0,Limited Time Price,4.6,900
+472,"Sony 55"" Class - X77CL Series - 4K UHD LED LCD TV",TVs,549.99,549.99,0.0,Limited Time Price,4.5,203
+430,"Samsung 85"" Class - Q60C Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,1599.99,1599.99,0.0,Limited Time Price,4.6,900
+221,"LG 55"" Class - OLED B3 Series - 4K UHD OLED TV -  Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1199.99,1199.99,0.0,Limited Time Price,4.6,278
+407,"Samsung 50"" Class - The Frame Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1099.99,1099.99,0.0,Limited Time Price,4.4,1235
+475,"Sony 65"" Class - X77CL Series - 4K UHD LED LCD TV",TVs,679.99,679.99,0.0,Limited Time Price,4.5,203
+198,"Hisense 75"" Class - U75K Series - 4K UHD Mini-LED ULED TV",TVs,1099.99,1099.99,0.0,Limited Time Price,4.4,359
+419,"Samsung 65"" Class - QN85C Series - 4K UHD Neo QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,1399.99,1399.99,0.0,Limited Time Price,4.6,813
+431,"Samsung 85"" Class - Q70C Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,1899.99,1899.99,0.0,Limited Time Price,4.6,881
+404,"Samsung 43"" Class - The Frame Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,999.99,999.99,0.0,No Discount,4.4,1235
+429,"Samsung 83"" Class - OLED S90 Series - 4K UHD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,3999.99,3999.99,0.0,No Discount,4.7,889
+426,"Samsung 75"" Class - QN90C Series - 4K UHD Neo QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,2399.99,2399.99,0.0,Limited Time Price,4.7,368
+196,"Hisense 65"" Class - U75K Series - 4K UHD Mini-LED ULED TV",TVs,799.99,799.99,0.0,Limited Time Price,4.4,359
+478,"Sony 65"" Class - X93CL Series - 4K UHD Mini LED TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1799.99,1799.99,0.0,Limited Time Price,4.6,99
+427,"Samsung 75"" Class - The Frame Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,2999.99,2999.99,0.0,No Discount,4.4,1235
+479,"Sony 75"" Class - X77CL Series - 4K UHD LED LCD TV",TVs,949.99,949.99,0.0,Limited Time Price,4.5,203
+237,"LG 83"" Class - OLED C3 Series - 4K UHD OLED TV -  Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,4299.99,4299.99,0.0,Limited Time Price,4.7,1404
+433,"Samsung 85"" Class - QN850C Series - 8K UHD Neo QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage*",TVs,3999.99,3999.99,0.0,Limited Time Price,4.5,15
+432,"Samsung 85"" Class - Q80C Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included For 5 Years Of Total Coverage",TVs,1999.99,1999.99,0.0,Limited Time Price,4.6,510
+239,"LG 86"" Class - QNED80 Series - 4K UHD QNED TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,1899.99,1899.99,0.0,Limited Time Price,4.5,234
+240,"LG 86"" Class - QNED85 Series - 4K UHD QNED MiniLED TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,2299.99,2299.99,0.0,Limited Time Price,4.5,320
+482,"Sony 75"" Class - X93CL Series - 4K UHD Mini LED TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,2799.99,2799.99,0.0,Limited Time Price,4.6,99
+484,"Sony 83"" Class - A80CL Series - 4K UHD OLED TV - Allstate 3-Year Protection Plan Bundle Included for 5 years of total coverage*",TVs,4799.99,4799.99,0.0,Limited Time Price,4.7,580
+238,"LG 83"" Class - OLED G3 Series - 4K UHD OLED TV -  Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,5299.99,5299.99,0.0,Limited Time Price,4.7,259
+436,"Samsung 85"" Class - The Frame Series - 4K UHD QLED LCD TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,4299.99,4299.99,0.0,No Discount,4.4,1235
+186,"Hisense 100"" - L5G Series - Ultra Short Throw Smart Laser TV Projector with ALR Screen",TVs,2499.99,2499.99,0.0,Limited Time Price,3.8,63
+189,"Hisense 120"" - L5H Series - Ultra Short Throw Smart Laser TV Projector with ALR Screen",TVs,4499.99,4499.99,0.0,Limited Time Price,2.9,7
+413,"Samsung 58"" Class - TU690T Series - 4K UHD LED LCD TV",TVs,299.99,299.99,0.0,No Discount,4.5,350
+188,"Hisense 120"" - L5G Series - Ultra Short Throw Smart Laser TV Projector with ALR Screen",TVs,2999.99,2999.99,0.0,Limited Time Price,3.8,63
+216,"LG 42"" Class - Flex Series - 4K UHD OLED TV -  Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,2499.99,2499.99,0.0,No Discount,5.0,6
+487,"Sony 98"" Class - X90L Series - 4K UHD LED LCD TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,7999.99,7999.99,0.0,Limited Time Price,3.0,4
+528,bionik Pro Kit+ for Switch OLED,Video Games & Consoles,19.99,19.99,0.0,No Discount,4.4,14
+490,Sony PlayStation Four $25 Gift Cards Digital Download,Video Games & Consoles,89.99,89.99,0.0,No Discount,4.4,1144
+489,Sony PS5 Marvel’s Spider-Man 2 Bundle,Video Games & Consoles,579.99,579.99,0.0,No Discount,4.9,76
+352,Nintendo eShop $50 Digital Card ,Video Games & Consoles,44.99,44.99,0.0,No Discount,4.8,3642
+521,Xbox Game Pass Core 12-Month Subscription Digital Download ,Video Games & Consoles,54.99,54.99,0.0,No Discount,4.3,90
+519,Xbox $100 Gift Card Digital Download,Video Games & Consoles,89.99,89.99,0.0,No Discount,4.5,1684
+1,$100 Nintendo eShop Digital Gift Card Multi-Pack (4 X $25),Video Games & Consoles,89.99,89.99,0.0,No Discount,4.5,281
+380,"Roblox $50 Gift Card Digital Download, Includes Exclusive Virtual Item",Video Games & Consoles,44.99,44.99,0.0,No Discount,4.7,1263
+351,Nintendo Switch OLED Bundle,Video Games & Consoles,399.99,399.99,0.0,No Discount,4.8,62
+336,Meta Quest 3 128GB with Asgard’s Wrath 2 Game Bundle,Video Games & Consoles,599.99,599.99,0.0,No Discount,3.7,170
+381,"Roblox Four $25 Gift Cards Digital Download, Includes Exclusive Virtual Item",Video Games & Consoles,89.99,89.99,0.0,No Discount,4.6,435
+379,"Roblox $100 Gift Card Digital Download, Includes Exclusive Virtual Item",Video Games & Consoles,89.99,89.99,0.0,No Discount,4.7,357
+2,$200 Nintendo eShop Gift Card Multi-Pack (4 X $50),Video Games & Consoles,179.99,179.99,0.0,No Discount,3.6,20
+450,Samsung Odyssey 32” Class G65B Series QHD 240Hz Curved Gaming Monitor ,Video Games & Consoles,449.99,749.99,300.0,Dollars Off,3.7,6
+520,Xbox Four $25 Gift Cards Digital Download,Video Games & Consoles,89.99,89.99,0.0,No Discount,4.3,442
+347,My Arcade Atari Gamestation Pro,Video Games & Consoles,79.99,79.99,0.0,No Discount,3.1,151
+524,Xbox Series X 1TB Console with Additional Controller,Video Games & Consoles,549.99,549.99,0.0,No Discount,4.8,4795
+523,Xbox Series S Starter Bundle,Video Games & Consoles,369.99,369.99,0.0,No Discount,4.7,11
+522,Xbox Game Pass Core 6M Digital Download,Video Games & Consoles,34.99,34.99,0.0,No Discount,3.6,13
+360,PlayStation VR2 Horizon: Call of the Mountain and Charging Station Bundle,Video Games & Consoles,629.99,629.99,0.0,No Discount,3.8,22
+53,"Arcade1Up Infinity Game Table 32”, $100 Game Code Voucher Included",Video Games & Consoles,949.99,949.99,0.0,No Discount,4.0,27
+52,"Arcade1Up Infinity Game Board 18.5”, $25 Game Code Voucher Included",Video Games & Consoles,449.99,449.99,0.0,No Discount,3.9,14
+54,Arcade1Up NBA Jam Partycade 3 Games in 1,Video Games & Consoles,199.99,199.99,0.0,No Discount,4.7,12
+72,"Backbone One (Lightning) - PlayStation Edition Mobile Gaming Controller for iPhone, $25 Sony PlayStation Credit Included",Video Games & Consoles,49.97,49.97,0.0,No Discount,3.9,180
+525,Xbox Series X Diablo IV Bundle with Additional Controller,Video Games & Consoles,599.99,599.99,0.0,No Discount,4.7,50
