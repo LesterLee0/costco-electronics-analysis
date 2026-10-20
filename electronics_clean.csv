@@ -8,7 +8,7 @@ product_id,title,sub_category,price,original_price,discount_amount,discount_type
 206,Jackery Explorer 550 Portable Power Station,Batteries,299.99,299.99,0.0,Limited Time Price,,0
 205,Jackery Explorer 2000 Pro Portable Power Station,Batteries,1149.99,1149.99,0.0,Limited Time Price,,0
 136,GoPro HERO11 Black Action Camera Bundle,Cameras & Camcorders,289.99,289.99,0.0,Limited Time Price,4.2,238
-202,Insta360 X3 - 5.7K 360° Action Camera Adventure Bundle,Cameras & Camcorders,399.99,399.99,0.0,Limited Time Price,4.4,99
+202,Insta360 X3 - 5.7K 360 Action Camera Adventure Bundle,Cameras & Camcorders,399.99,399.99,0.0,Limited Time Price,4.4,99
 94,DJI Mini 3 Drone Aerial Camera Bundle,Cameras & Camcorders,429.99,429.99,0.0,No Discount,4.4,115
 135,GoPro HERO10 Black Action Camera Bundle,Cameras & Camcorders,239.97,239.97,0.0,No Discount,4.1,311
 201,Insta360 GO 3 Action Camera Bundle,Cameras & Camcorders,349.99,349.99,0.0,Limited Time Price,3.6,11
@@ -16,21 +16,21 @@ product_id,title,sub_category,price,original_price,discount_amount,discount_type
 68,Autel Robotics - EVO Lite+ Premium Bundle - Drone with Remote Controller (Android and iOS Compatible) - Orange,Cameras & Camcorders,849.99,849.99,0.0,No Discount,4.3,49
 265,Lenovo IdeaCentre 3i Desktop - 13th Gen Intel Core i5-13400 - Windows 11,Desktop Computers & PCs,649.99,649.99,0.0,No Discount,4.5,128
 119,Dell XPS Tower - 13th Gen Intel Core i7-13700 - GeForce RTX 4060Ti - Windows 11  ,Desktop Computers & PCs,1699.99,2099.99,400.0,Dollars Off,5.0,4
-313,"Mac mini – Apple M2 Chip 8-core CPU, 10-core GPU – 8GB Memory – 256GB SSD –  Silver",Desktop Computers & PCs,579.99,579.99,0.0,No Discount,4.7,186
+313,"Mac mini  Apple M2 Chip 8-core CPU, 10-core GPU  8GB Memory  256GB SSD   Silver",Desktop Computers & PCs,579.99,579.99,0.0,No Discount,4.7,186
 109,"Dell Inspiron 27"" 7000 Series All-in-One Touchscreen Desktop - 13th Gen Intel Core i7-1355U - GeForce MX550 - 1080p - Windows 11",Desktop Computers & PCs,999.99,1499.99,500.0,Dollars Off,4.5,169
 158,"HP 23.8"" Touchscreen All-in-One Desktop - AMD Ryzen 5 7520U - 1080p - Windows 11",Desktop Computers & PCs,599.99,799.99,200.0,Dollars Off,4.7,27
 112,Dell Inspiron Desktop - 13th Gen Intel Core i7-13700 - GeForce RTX 3060 - Windows 11,Desktop Computers & PCs,1399.99,1399.99,0.0,No Discount,4.5,74
 116,Dell Inspiron Small Form Desktop - 13th Gen Intel Core i5-13400 - Windows 11 Pro,Desktop Computers & PCs,599.99,599.99,0.0,No Discount,3.7,20
-315,"Mac mini – Apple M2 Pro Chip 10-core CPU, 16-core GPU – 16GB Memory – 512GB SSD –  Silver",Desktop Computers & PCs,1249.99,1249.99,0.0,No Discount,4.7,129
+315,"Mac mini  Apple M2 Pro Chip 10-core CPU, 16-core GPU  16GB Memory  512GB SSD   Silver",Desktop Computers & PCs,1249.99,1249.99,0.0,No Discount,4.7,129
 167,HP ENVY Desktop - 13th Gen Intel Core i7-13700 - Windows 11 Professional,Desktop Computers & PCs,1099.99,1099.99,0.0,No Discount,4.5,215
 93,"CyberPowerPC Gamer Xtreme Gaming Desktop - 13th Gen Intel Core i5-13400F -  GeForce RTX 4060, Black",Desktop Computers & PCs,999.99,999.99,0.0,No Discount,4.5,99
-22,Acer Aspire Desktop – 13th Gen Intel Core i5-13400 – Windows 11,Desktop Computers & PCs,499.99,649.99,150.0,Dollars Off,4.5,35
+22,Acer Aspire Desktop  13th Gen Intel Core i5-13400  Windows 11,Desktop Computers & PCs,499.99,649.99,150.0,Dollars Off,4.5,35
 298,MSI Aegis R Gaming Desktop - 13th Gen Intel Core i7-13700F -  GeForce RTX 4070 - Windows 11,Desktop Computers & PCs,1599.99,1899.99,300.0,Dollars Off,4.4,106
-311,"Mac Studio: Apple M2 Max chip with 12‑core CPU, 30‑core GPU, 512GB SSD ",Desktop Computers & PCs,1949.99,1949.99,0.0,No Discount,5.0,15
-314,"Mac mini – Apple M2 Chip 8-core CPU, 10-core GPU – 8GB Memory – 512GB SSD –  Silver",Desktop Computers & PCs,769.99,769.99,0.0,No Discount,4.7,137
+311,"Mac Studio: Apple M2 Max chip with 12core CPU, 30core GPU, 512GB SSD ",Desktop Computers & PCs,1949.99,1949.99,0.0,No Discount,5.0,15
+314,"Mac mini  Apple M2 Chip 8-core CPU, 10-core GPU  8GB Memory  512GB SSD   Silver",Desktop Computers & PCs,769.99,769.99,0.0,No Discount,4.7,137
 11,ASUS ROG Strix Gaming Desktop - 13th Gen Intel Core  i7-13700F - NVIDIA GeForce RTX 4060 - Windows 11 Home,Desktop Computers & PCs,1449.99,1449.99,0.0,No Discount,,0
-182,HP Victus Gaming Desktop – 13th Gen Intel Core i7-13700F GeForce RTX 4060 – Window 11 ,Desktop Computers & PCs,1299.99,1299.99,0.0,No Discount,4.3,7
-312,"Mac Studio: Apple M2 Ultra chip with 24‑core CPU, 60‑core GPU, 1TB SSD",Desktop Computers & PCs,3799.99,3799.99,0.0,No Discount,5.0,8
+182,HP Victus Gaming Desktop  13th Gen Intel Core i7-13700F GeForce RTX 4060  Window 11 ,Desktop Computers & PCs,1299.99,1299.99,0.0,No Discount,4.3,7
+312,"Mac Studio: Apple M2 Ultra chip with 24core CPU, 60core GPU, 1TB SSD",Desktop Computers & PCs,3799.99,3799.99,0.0,No Discount,5.0,8
 536,"iMac (23.5-inch) - Apple M3 chip with 8GB Memory, 8-core CPU and 8-core GPU, 256GB SSD",Desktop Computers & PCs,1249.99,1249.99,0.0,No Discount,4.7,29
 159,"HP 27"" All-in-One Touchscreen Desktop - 13th Gen Intel Core i7-1355U - 1080p - Windows 11",Desktop Computers & PCs,1099.99,1199.99,100.0,Dollars Off,4.7,100
 538,"iMac (24-inch) - Apple M3 chip with 8GB Memory, 8-core CPU and 10-core GPU, 512GB SSD ",Desktop Computers & PCs,1649.99,1649.99,0.0,No Discount,4.7,16
@@ -73,7 +73,7 @@ product_id,title,sub_category,price,original_price,discount_amount,discount_type
 92,"CyberPowerPC Gamer Supreme Gaming Desktop - 13th Gen Intel Core i7-13700KF - GeForce RTX 4080, White",Desktop Computers & PCs,2499.99,2499.99,0.0,No Discount,4.0,92
 93,"CyberPowerPC Gamer Xtreme Gaming Desktop - 13th Gen Intel Core i5-13400F -  GeForce RTX 4060, Black",Gaming Desktop Computer & PCs,999.99,999.99,0.0,No Discount,4.5,99
 298,MSI Aegis R Gaming Desktop - 13th Gen Intel Core i7-13700F -  GeForce RTX 4070 - Windows 11,Gaming Desktop Computer & PCs,1599.99,1899.99,300.0,Dollars Off,4.4,106
-182,HP Victus Gaming Desktop – 13th Gen Intel Core i7-13700F GeForce RTX 4060 – Window 11 ,Gaming Desktop Computer & PCs,1299.99,1299.99,0.0,No Discount,4.3,7
+182,HP Victus Gaming Desktop  13th Gen Intel Core i7-13700F GeForce RTX 4060  Window 11 ,Gaming Desktop Computer & PCs,1299.99,1299.99,0.0,No Discount,4.3,7
 533,iBUYPOWER SlateMesh Gaming Desktop- 13th Gen Intel Core i7 - 13700F - GeForce RTX 4060 - Windows 11,Gaming Desktop Computer & PCs,1299.99,1299.99,0.0,No Discount,4.3,53
 11,ASUS ROG Strix Gaming Desktop - 13th Gen Intel Core  i7-13700F - NVIDIA GeForce RTX 4060 - Windows 11 Home,Gaming Desktop Computer & PCs,1449.99,1449.99,0.0,No Discount,,0
 464,Skytech Chronos Mini Gaming Desktop - 13th Gen Intel Core i5-13400F - GeForce RTX 4060,Gaming Desktop Computer & PCs,899.99,899.99,0.0,No Discount,5.0,1
@@ -99,9 +99,9 @@ product_id,title,sub_category,price,original_price,discount_amount,discount_type
 277,"Lenovo LEGION Pro 5i 16"" Gaming Laptop - 13th Gen Intel Core i9-13900HX - GeForce RTX 4060 - 165Hz 2560 x 1600",Gaming Laptops & Notebook Computers,1599.99,1599.99,0.0,No Discount,4.2,85
 180,"HP Victus 16.1"" Gaming Laptop - 13th Gen Intel Core i7-13700HX - GeForce RTX 4060 - 144HZ 1080p  - Windows 11",Gaming Laptops & Notebook Computers,1399.99,1399.99,0.0,No Discount,4.0,81
 307,"MSI Raider GE68HX 16"" Laptop - 13th Gen Intel Core i9-13950HX - GeForce RTX 4070 - QHD+ (2560 x 1600) - Windows 11",Gaming Laptops & Notebook Computers,2299.99,2299.99,0.0,No Discount,4.1,43
-8,"ASUS 16"" ROG Strix G16 Laptop - 13th Gen Intel Core i9-13980HX - GeForce RTX™ 4060 - 1920 x 1200 - Windows 11",Gaming Laptops & Notebook Computers,1499.99,1749.99,250.0,Dollars Off,4.7,22
+8,"ASUS 16"" ROG Strix G16 Laptop - 13th Gen Intel Core i9-13980HX - GeForce RTX 4060 - 1920 x 1200 - Windows 11",Gaming Laptops & Notebook Computers,1499.99,1749.99,250.0,Dollars Off,4.7,22
 308,MSI Raider GE78HX 17 Laptop - 13th Gen Intel Core i9-13950HX - GeForce RTX 4080 - QHD+ (2560 x 1600) - Windows 11 ,Gaming Laptops & Notebook Computers,2699.99,3299.99,600.0,Dollars Off,3.2,31
-27,Acer Nitro V 15.6” Gaming Laptop – 13th Gen Intel Core i5-13420H Processor – 1080p – Windows 11,Gaming Laptops & Notebook Computers,699.99,699.99,0.0,No Discount,4.7,6
+27,Acer Nitro V 15.6 Gaming Laptop  13th Gen Intel Core i5-13420H Processor  1080p  Windows 11,Gaming Laptops & Notebook Computers,699.99,699.99,0.0,No Discount,4.7,6
 99,"Dell 16 Gaming Laptop -  13th Gen Intel Core i9-13900HX - GeForce RTX 4070 - Windows 11, Metallic Nightshade Gray",Gaming Laptops & Notebook Computers,1699.99,1899.99,200.0,Dollars Off,3.7,11
 101,"Dell G15 Gaming Laptop -  13th Gen Intel Core i9-13900HX - GeForce RTX 4060 - Windows 11, Black",Gaming Laptops & Notebook Computers,1599.99,1599.99,0.0,No Discount,3.8,31
 300,MSI Cyborg Gaming Laptop - 13th Gen Intel Core i7-13620H - GeForce RTX 4050 - 144HZ 1080p ,Gaming Laptops & Notebook Computers,999.99,999.99,0.0,No Discount,4.2,52
@@ -229,7 +229,7 @@ product_id,title,sub_category,price,original_price,discount_amount,discount_type
 302,"MSI Katana 15.6"" Laptop - 12th Gen Intel Core i7-12650H - GeForce RTX 4060 - FHD (1920 x 1080) - 144Hz - Windows 11",Laptops & Notebook Computers,1199.99,1199.99,0.0,No Discount,4.3,23
 276,"Lenovo LEGION PRO 5i 16"" Gaming Laptop - 13th Gen Intel Core i7-13700HX - GeForce RTX 4060 - 165Hz 2560 x 1600",Laptops & Notebook Computers,1399.99,1699.99,300.0,Dollars Off,4.4,41
 301,"MSI GE68HX Raider 16"" Gaming Laptop - 13th Gen Intel Core i9-13950HX - GeForce RTX 4060 - 144HZ FHD+ (1920 x 1200) ",Laptops & Notebook Computers,1399.99,1799.99,400.0,Dollars Off,4.5,95
-30,Acer Swift Go 14” Intel Evo Platform Touchscreen Laptop – 13th Gen Intel Core i7-1355U Processor – 1080p – Windows 11,Laptops & Notebook Computers,799.99,899.99,100.0,Dollars Off,,0
+30,Acer Swift Go 14 Intel Evo Platform Touchscreen Laptop  13th Gen Intel Core i7-1355U Processor  1080p  Windows 11,Laptops & Notebook Computers,799.99,899.99,100.0,Dollars Off,,0
 162,"HP Dragonfly G4 13.5"" Intel Evo Platform Touchscreen Laptop - 13th Gen Intel Core i7-1355U - 1280p - Windows 11 Pro",Laptops & Notebook Computers,1499.99,1499.99,0.0,No Discount,4.5,31
 263,"Lenovo Flex 7i Intel Evo Platform 14"" 2-in-1 Touchscreen Laptop - 13th Gen Intel Core i7-1355U - Windows 11",Laptops & Notebook Computers,999.99,999.99,0.0,No Discount,3.8,36
 177,"HP Pavilion 15.6"" Touchscreen Laptop - AMD Ryzen 7 7730U - 1080p - Windows 11",Laptops & Notebook Computers,699.99,849.99,150.0,Dollars Off,4.4,309
@@ -242,7 +242,7 @@ product_id,title,sub_category,price,original_price,discount_amount,discount_type
 281,"Lenovo Slim Pro 9i 16"" Touchscreen Intel Evo Platform Laptop - 13th Gen Intel Core i9-13905H - 3.2K - Mini LED (3200 x 2000) - Windows 11",Laptops & Notebook Computers,1499.99,1799.99,300.0,Dollars Off,4.6,45
 257,"LG gram 17"" Intel Evo Platform Laptop - 13th Gen Intel Core i7-1360P - 2560 x 1600 - Windows 11",Laptops & Notebook Computers,1099.99,1499.99,400.0,Dollars Off,4.2,117
 176,"HP Pavilion 15.6"" Touchscreen Laptop - 13th Gen Intel Core i7-1355U - GeForce MX550 - 1080p - Windows 11 Professional",Laptops & Notebook Computers,899.99,999.99,100.0,Dollars Off,4.4,209
-333,"MacBook Pro (16-inch)- Apple M2 Pro chip with 12‑core CPU and 19‑core GPU, 512GB SSD",Laptops & Notebook Computers,1999.97,1999.97,0.0,No Discount,4.8,40
+333,"MacBook Pro (16-inch)- Apple M2 Pro chip with 12core CPU and 19core GPU, 512GB SSD",Laptops & Notebook Computers,1999.97,1999.97,0.0,No Discount,4.8,40
 283,"Lenovo ThinkPad T14s 14"" Touchscreen Evo Platform Laptop - 13th Gen Intel Core i7-1355U - WUXGA - Windows 11",Laptops & Notebook Computers,999.97,999.97,0.0,No Discount,3.9,22
 331,"MacBook Pro (16-inch) - Apple M3 Pro chip with 18GB Memory, 12-core CPU and 18-core GPU, 512GB SSD ",Laptops & Notebook Computers,2449.99,2449.99,0.0,No Discount,4.4,15
 151,"HP 17.3"" Touchscreen Laptop - 13th Gen Intel Core i7-1355U - Windows 11",Laptops & Notebook Computers,749.99,899.99,150.0,Dollars Off,4.4,400
@@ -261,7 +261,7 @@ product_id,title,sub_category,price,original_price,discount_amount,discount_type
 6,"ASUS 14"" Vivobook Laptop - AMD Ryzen 5 7520U - 1080p - Windows 11",Laptops & Notebook Computers,449.99,599.99,150.0,Dollars Off,,0
 115,"Dell Inspiron Plus 16"" Laptop - 13th Gen Intel Core i7-13620H - 2.5K (2560 X 1600) - GeForce RTX 4060 - Platinum Silver",Laptops & Notebook Computers,1499.99,1699.99,200.0,Dollars Off,3.8,6
 344,Microsoft Surface Pro 9 Bundle - Intel Evo Platform 12th Gen Intel Core i7-1255U - 2880 x 1920 PixelSense Flow Display - Sapphire - Windows 11,Laptops & Notebook Computers,1199.99,1499.99,300.0,Dollars Off,4.8,44
-323,"MacBook Pro (14-inch) - Apple M2 Max chip with 12‑core CPU and 30‑core GPU, 1TB SSD",Laptops & Notebook Computers,2499.97,2499.97,0.0,No Discount,4.6,38
+323,"MacBook Pro (14-inch) - Apple M2 Max chip with 12core CPU and 30core GPU, 1TB SSD",Laptops & Notebook Computers,2499.97,2499.97,0.0,No Discount,4.6,38
 332,"MacBook Pro (16-inch) - Apple M3 Pro chip with 36GB Memory, 12-core CPU and 18-core GPU, 512GB SSD ",Laptops & Notebook Computers,2849.99,2849.99,0.0,No Discount,3.2,4
 272,"Lenovo IdeaPad Slim 5i 16"" Touchscreen Laptop - 13th Gen Intel Core i7-1355U - WUXGA - 1920 x 1200 Display - Windows 11",Laptops & Notebook Computers,849.99,849.99,0.0,No Discount,4.1,82
 175,"HP Pavilion 15.6"" Touchscreen Laptop - 13th Gen Intel Core i7-1355U - GeForce MX550 - 1080p - Blue",Laptops & Notebook Computers,899.99,899.99,0.0,No Discount,4.5,206
@@ -271,7 +271,7 @@ product_id,title,sub_category,price,original_price,discount_amount,discount_type
 103,"Dell Inspiron 15.6"" Touchscreen Laptop - 13th Gen Intel Core i5-1335U - 1080p - Windows 11, Black",Laptops & Notebook Computers,699.99,699.99,0.0,No Discount,4.2,141
 262,"Lenovo Flex 5i 16"" Touchscreen 2-in-1 Laptop - 13th Gen Intel Core i7-1355U - Windows 11 - Abyss Blue",Laptops & Notebook Computers,799.99,899.99,100.0,Dollars Off,4.4,104
 102,"Dell Inspiron 14"" Intel Evo Platform Laptop - 13th Gen Intel Core i7-1360P - 2560x1600 Display",Laptops & Notebook Computers,749.99,899.99,150.0,Dollars Off,4.3,64
-438,Samsung Galaxy Book3 15.6” Laptop – 13th Gen Intel Core i7-1355U Processor – 1080p – Windows 11,Laptops & Notebook Computers,799.99,799.99,0.0,Limited Time Price,4.5,80
+438,Samsung Galaxy Book3 15.6 Laptop  13th Gen Intel Core i7-1355U Processor  1080p  Windows 11,Laptops & Notebook Computers,799.99,799.99,0.0,Limited Time Price,4.5,80
 339,"Microsoft Surface Laptop Studio 14.4"" Touchscreen 2-in-1 Laptop - 11th Gen Intel Core i7-11370H",Laptops & Notebook Computers,1499.97,1499.97,0.0,No Discount,4.4,87
 244,"LG Gram Style 16"" OLED Intel Evo Platform Laptop - 13th Gen Intel Core i7-1360P - OLED 3K 120Hz Display (3200 x 2000) - Windows 11",Laptops & Notebook Computers,1599.97,1599.97,0.0,No Discount,3.5,4
 106,"Dell Inspiron 16"" Touchscreen Laptop - 13th Gen Intel Core i7-1360P - 1920 x 1200 - Windows 11",Laptops & Notebook Computers,999.99,999.99,0.0,No Discount,5.0,5
@@ -280,18 +280,18 @@ product_id,title,sub_category,price,original_price,discount_amount,discount_type
 144,"HP 14"" Laptop - 13th Gen Intel Core i7-1355U - 1080p - Windows 11",Laptops & Notebook Computers,699.99,799.99,100.0,Dollars Off,4.1,158
 266,"Lenovo IdeaPad 1 15.6"" Laptop - Intel Pentium Silver N6000 - 1080p - Windows 11 S Mode - Microsoft 365 Personal (1-Year Subscription)",Laptops & Notebook Computers,249.99,249.99,0.0,No Discount,3.9,633
 280,"Lenovo Slim 7 Pro X 14.5"" Touchscreen Laptop - AMD Ryzen 9 6900HS - GeForce RTX 3050 - 120Hz 3072 x 1920 Display - Windows 11",Laptops & Notebook Computers,1499.99,1499.99,0.0,No Discount,3.5,176
-19,Acer Aspire 3 Spin 14” 2-in-1 Touchscreen Laptop - Intel Core i3-N305 - 1920 x 1200 - Windows 11 S Mode,Laptops & Notebook Computers,349.99,449.99,100.0,Dollars Off,3.9,33
+19,Acer Aspire 3 Spin 14 2-in-1 Touchscreen Laptop - Intel Core i3-N305 - 1920 x 1200 - Windows 11 S Mode,Laptops & Notebook Computers,349.99,449.99,100.0,Dollars Off,3.9,33
 284,"Lenovo ThinkPad X1 Carbon 14"" Laptop - 12th Gen Intel Core i7-1255U - Windows 11",Laptops & Notebook Computers,1699.99,1799.99,100.0,Dollars Off,4.5,17
 267,"Lenovo IdeaPad 3 15.6"" Touchscreen Laptop - 12th Gen  Intel Core i5-1235U - 1080p - Windows 11 - Abyss Blue",Laptops & Notebook Computers,599.99,599.99,0.0,No Discount,4.3,56
 183,"HP x360 14""  Touchscreen 2-in-1 Chromebook Laptop - Intel Pentium Silver N6000 - 1080p",Laptops & Notebook Computers,399.99,399.99,0.0,No Discount,4.3,124
-8,"ASUS 16"" ROG Strix G16 Laptop - 13th Gen Intel Core i9-13980HX - GeForce RTX™ 4060 - 1920 x 1200 - Windows 11",Laptops & Notebook Computers,1499.99,1749.99,250.0,Dollars Off,4.7,22
+8,"ASUS 16"" ROG Strix G16 Laptop - 13th Gen Intel Core i9-13980HX - GeForce RTX 4060 - 1920 x 1200 - Windows 11",Laptops & Notebook Computers,1499.99,1749.99,250.0,Dollars Off,4.7,22
 254,"LG gram 16"" Intel Evo Platform TouchScreen Laptop - 13th Gen Intel Core i7-1360P - 2560 x 1600 - Windows 11",Laptops & Notebook Computers,899.99,1099.99,200.0,Dollars Off,4.0,34
-23,"Acer Chromebook Plus 14” Touchscreen Laptop – AMD Ryzen 3-7320C - 1200p, Protective Sleeve Included",Laptops & Notebook Computers,449.99,449.99,0.0,No Discount,4.7,32
+23,"Acer Chromebook Plus 14 Touchscreen Laptop  AMD Ryzen 3-7320C - 1200p, Protective Sleeve Included",Laptops & Notebook Computers,449.99,449.99,0.0,No Discount,4.7,32
 20,"Acer Aspire 5 15.6"" Laptop - 12th Gen Intel Core i5-12450H - 1080p - Windows 11",Laptops & Notebook Computers,499.99,499.99,0.0,No Discount,4.3,15
 341,"Microsoft Surface Laptop Studio 2 -  14.4"" Touchscreen 2-in-1 Laptop- Intel Evo Platform 13th Gen Intel Core i7-13700H Processor - GeForce RTX 4050 - Windows 11",Laptops & Notebook Computers,2799.99,2799.99,0.0,No Discount,,0
 105,"Dell Inspiron 15.6"" Touchscreen Laptop - AMD Ryzen 7 7730U 8-Core- AMD Radeon",Laptops & Notebook Computers,799.99,799.99,0.0,No Discount,4.4,75
 242,"LG Gram 2-in-1 16"" Touchscreen Intel Evo Platform Laptop - 13th Gen Intel Core i7-1360P - 2560 x 1600 - Windows 11",Laptops & Notebook Computers,1499.99,1499.99,0.0,No Discount,4.2,183
-27,Acer Nitro V 15.6” Gaming Laptop – 13th Gen Intel Core i5-13420H Processor – 1080p – Windows 11,Laptops & Notebook Computers,699.99,699.99,0.0,No Discount,4.7,6
+27,Acer Nitro V 15.6 Gaming Laptop  13th Gen Intel Core i5-13420H Processor  1080p  Windows 11,Laptops & Notebook Computers,699.99,699.99,0.0,No Discount,4.7,6
 148,"HP 15.6"" Touchscreen Laptop - AMD Ryzen 5 7520U - Windows 11 ",Laptops & Notebook Computers,699.99,699.99,0.0,No Discount,4.3,235
 304,"MSI Modern 15.6"" Laptop - 12th Gen Intel Core i7-1255U - 1080p",Laptops & Notebook Computers,549.99,699.99,150.0,Dollars Off,4.4,32
 34,Allstate 3 Years Drops & Spills Protection (For New Computers Under $500),Laptops & Notebook Computers,69.99,69.99,0.0,No Discount,4.3,1941
@@ -312,11 +312,11 @@ product_id,title,sub_category,price,original_price,discount_amount,discount_type
 273,"Lenovo IdeaPad Ultraslim 7i Intel Evo Platform 14"" Touchscreen Laptop - 13th Gen Intel Core i7-1360P - 2.8K (2880 x 1800) - Windows 11",Laptops & Notebook Computers,899.99,999.99,100.0,Dollars Off,2.7,3
 309,"MSI Summit E14Flip EVO 14"" 2-in-1 Touchscreen Laptop - 13th Gen Intel Core i7-1360P - QHD+ (2880 x 1800) - Windows 11",Laptops & Notebook Computers,1099.99,1299.99,200.0,Dollars Off,3.7,6
 5,"ASUS 14"" CX3402CBA Chromebook Plus - 12th Gen Intel Core i3-1215U - 1080P",Laptops & Notebook Computers,399.99,399.99,0.0,No Discount,5.0,2
-21,Acer Aspire 5 15.6” Touchscreen Laptop – 13th Gen Intel Core i5-1335U – 1080P – Windows 11,Laptops & Notebook Computers,699.99,699.99,0.0,No Discount,4.0,73
+21,Acer Aspire 5 15.6 Touchscreen Laptop  13th Gen Intel Core i5-1335U  1080P  Windows 11,Laptops & Notebook Computers,699.99,699.99,0.0,No Discount,4.0,73
 166,"HP ENVY 17.3"" Touchscreen Laptop - 13th Gen Intel Core i7-13700H - 1080p - Windows 11 - Microsoft 365 Personal (1-Year Subscription)",Laptops & Notebook Computers,1099.99,1099.99,0.0,No Discount,4.5,44
 303,"MSI Modern 15.6"" Laptop - 12th Gen Intel Core i5-1235U - 1080p - Windows 11",Laptops & Notebook Computers,449.99,599.99,150.0,Dollars Off,4.0,45
 29,"Acer Swift Edge 16"" 4K OLED Laptop - AMD Ryzen 7-7735U - Windows 11",Laptops & Notebook Computers,699.99,999.99,300.0,Dollars Off,4.0,21
-24,Acer Nitro 16” Gaming Laptop - 13th Gen Intel i7-13620H - GeForce RTX 4050 - 165Hz 1920 x 1200 Display - Window 11,Laptops & Notebook Computers,799.99,999.99,200.0,Dollars Off,3.0,2
+24,Acer Nitro 16 Gaming Laptop - 13th Gen Intel i7-13620H - GeForce RTX 4050 - 165Hz 1920 x 1200 Display - Window 11,Laptops & Notebook Computers,799.99,999.99,200.0,Dollars Off,3.0,2
 10,"ASUS 17.3"" VivoBook Laptop - AMD Ryzen 7 7730U - 1080p - Windows 11",Laptops & Notebook Computers,899.99,899.99,0.0,No Discount,4.2,58
 259,"Lenovo Flex 5 14"" Touchscreen 2-in-1 Laptop -  AMD Ryzen 7 7730U - 1200p - Windows 11",Laptops & Notebook Computers,849.99,849.99,0.0,No Discount,4.3,62
 243,"LG Gram Pro 16"" Intel Evo Platform Laptop - 13th Gen Intel Core i7-1360P - GeForce RTX 3050 - 2560 x 1600 - Windows 11",Laptops & Notebook Computers,1299.99,1699.99,400.0,Dollars Off,4.2,58
@@ -325,8 +325,8 @@ product_id,title,sub_category,price,original_price,discount_amount,discount_type
 9,"ASUS 16"" ROG Strix G16 Laptop - Intel Core i7-13650HX - GeForce RTX  4050 - 1920x 1200 - Windows 11",Laptops & Notebook Computers,1299.99,1549.99,250.0,Dollars Off,4.6,7
 169,"HP ENVY x360 15.6"" Touchscreen 2-in-1 Laptop - AMD Ryzen 7 7730U - 1080p - Windows 11",Laptops & Notebook Computers,799.99,949.99,150.0,Dollars Off,4.4,43
 163,"HP ENVY 16"" Touchscreen Laptop - 13th Gen Intel Core i7-13700H - GeForce RTX 4060 - WQXGA (2560 x 1600) 48-120Hz",Laptops & Notebook Computers,1799.99,1799.99,0.0,No Discount,4.2,68
-31,Acer Swift Go 14” Touchscreen Laptop - Intel Core Ultra 7 Processor - LCD (1920 x 1200) Display - Windows 11,Laptops & Notebook Computers,949.99,949.99,0.0,No Discount,,0
-17,Acer Aspire 17.3” Laptop – 13th Gen Intel Core i5-1335U Processor – 1080p – Window 11,Laptops & Notebook Computers,799.99,799.99,0.0,No Discount,,0
+31,Acer Swift Go 14 Touchscreen Laptop - Intel Core Ultra 7 Processor - LCD (1920 x 1200) Display - Windows 11,Laptops & Notebook Computers,949.99,949.99,0.0,No Discount,,0
+17,Acer Aspire 17.3 Laptop  13th Gen Intel Core i5-1335U Processor  1080p  Window 11,Laptops & Notebook Computers,799.99,799.99,0.0,No Discount,,0
 7,"ASUS 14"" Vivobook Laptop - AMD Ryzen 7 7730U - Mobile Processor (1920 x 1200) - Windows 11",Laptops & Notebook Computers,649.99,649.99,0.0,No Discount,3.3,10
 279,"Lenovo LOQ 15.6"" Gaming Laptop - 13th Gen Intel Core i5-13420H - GeForce RTX 2050 - 144HZ  -  1080p - Windows 11",Laptops & Notebook Computers,599.97,599.97,0.0,No Discount,4.7,23
 142,"HP 14"" Laptop - 13th Gen Intel Core i3-1315U - 1080p - Includes Wireless Mouse - Windows 11",Laptops & Notebook Computers,499.99,499.99,0.0,No Discount,4.5,93
@@ -338,34 +338,34 @@ product_id,title,sub_category,price,original_price,discount_amount,discount_type
 268,"Lenovo IdeaPad 5 15.6"" Touchscreen Laptop - 11th Gen Intel Core i7-1165G7 - 1080p",Laptops & Notebook Computers,799.99,799.99,0.0,No Discount,4.2,380
 248,"LG Ultra PC 16.0"" Lightweight Laptop - AMD Ryzen 7-5825U - AMD Radeon Vega Graphics - Windows 11",Laptops & Notebook Computers,999.99,999.99,0.0,No Discount,4.3,48
 28,"Acer Swift Edge 16"" 4K OLED Laptop - AMD Ryzen 7-6800U - Windows 11",Laptops & Notebook Computers,1499.99,1499.99,0.0,No Discount,3.8,96
-313,"Mac mini – Apple M2 Chip 8-core CPU, 10-core GPU – 8GB Memory – 256GB SSD –  Silver",Mini PC Desktop Computer & PCs,579.99,579.99,0.0,No Discount,4.7,186
-315,"Mac mini – Apple M2 Pro Chip 10-core CPU, 16-core GPU – 16GB Memory – 512GB SSD –  Silver",Mini PC Desktop Computer & PCs,1249.99,1249.99,0.0,No Discount,4.7,129
-314,"Mac mini – Apple M2 Chip 8-core CPU, 10-core GPU – 8GB Memory – 512GB SSD –  Silver",Mini PC Desktop Computer & PCs,769.99,769.99,0.0,No Discount,4.7,137
-311,"Mac Studio: Apple M2 Max chip with 12‑core CPU, 30‑core GPU, 512GB SSD ",Mini PC Desktop Computer & PCs,1949.99,1949.99,0.0,No Discount,5.0,15
-312,"Mac Studio: Apple M2 Ultra chip with 24‑core CPU, 60‑core GPU, 1TB SSD",Mini PC Desktop Computer & PCs,3799.99,3799.99,0.0,No Discount,5.0,8
-14,Acer 27” Class FHD IPS Monitor ,Monitors,99.99,149.99,50.0,Dollars Off,4.6,191
+313,"Mac mini  Apple M2 Chip 8-core CPU, 10-core GPU  8GB Memory  256GB SSD   Silver",Mini PC Desktop Computer & PCs,579.99,579.99,0.0,No Discount,4.7,186
+315,"Mac mini  Apple M2 Pro Chip 10-core CPU, 16-core GPU  16GB Memory  512GB SSD   Silver",Mini PC Desktop Computer & PCs,1249.99,1249.99,0.0,No Discount,4.7,129
+314,"Mac mini  Apple M2 Chip 8-core CPU, 10-core GPU  8GB Memory  512GB SSD   Silver",Mini PC Desktop Computer & PCs,769.99,769.99,0.0,No Discount,4.7,137
+311,"Mac Studio: Apple M2 Max chip with 12core CPU, 30core GPU, 512GB SSD ",Mini PC Desktop Computer & PCs,1949.99,1949.99,0.0,No Discount,5.0,15
+312,"Mac Studio: Apple M2 Ultra chip with 24core CPU, 60core GPU, 1TB SSD",Mini PC Desktop Computer & PCs,3799.99,3799.99,0.0,No Discount,5.0,8
+14,Acer 27 Class FHD IPS Monitor ,Monitors,99.99,149.99,50.0,Dollars Off,4.6,191
 250,"LG UltraGear 32"" Class QHD Gaming Monitor",Monitors,229.99,299.99,70.0,Dollars Off,4.5,542
 400,"Samsung 32"" Class ViewFinity UR90 4K UHD Curved Monitor",Monitors,279.99,399.99,120.0,Dollars Off,4.3,2159
 215,"LG 35"" Class UltraWide Curved WQHD HDR10 Monitor ",Monitors,349.99,349.99,0.0,Free Shipping,4.6,3126
 213,"LG 27"" Class FHD IPS FreeSync Monitor",Monitors,179.99,179.99,0.0,No Discount,4.6,2058
-15,Acer 27” Class WQHD Curved Gaming Monitor,Monitors,169.99,249.99,80.0,Dollars Off,4.5,102
-212,LG 24” Class QHD IPS Monitor Ergo Dual with USB-C and DP Daisy Chain,Monitors,379.99,599.99,220.0,Dollars Off,4.3,70
+15,Acer 27 Class WQHD Curved Gaming Monitor,Monitors,169.99,249.99,80.0,Dollars Off,4.5,102
+212,LG 24 Class QHD IPS Monitor Ergo Dual with USB-C and DP Daisy Chain,Monitors,379.99,599.99,220.0,Dollars Off,4.3,70
 26,"Acer Nitro 34"" Class UWQHD Curved Gaming Monitor ",Monitors,299.99,299.99,0.0,No Discount,4.3,94
 399,"Samsung 32"" Class S30B Series FHD AMD FreeSync Monitor",Monitors,199.99,199.99,0.0,No Discount,4.4,242
-401,Samsung 32” Class M50C Series FHD Smart Monitor,Monitors,219.99,269.99,50.0,Dollars Off,3.6,5
-25,Acer Nitro 32” Class FHD Curved Monitor,Monitors,169.99,199.99,30.0,Dollars Off,4.6,32
+401,Samsung 32 Class M50C Series FHD Smart Monitor,Monitors,219.99,269.99,50.0,Dollars Off,3.6,5
+25,Acer Nitro 32 Class FHD Curved Monitor,Monitors,169.99,199.99,30.0,Dollars Off,4.6,32
 297,"MSI 27"" WQHD IPS Nvidia G-Sync Gaming Monitor",Monitors,219.99,219.99,0.0,No Discount,4.9,10
 405,"Samsung 49"" Class Odyssey CRG9 Series DQHD Curved Gaming Monitor",Monitors,799.99,799.99,0.0,Limited Time Price,4.5,358
-13,Acer 24” Class FHD Monitor,Monitors,99.99,99.99,0.0,No Discount,,0
+13,Acer 24 Class FHD Monitor,Monitors,99.99,99.99,0.0,No Discount,,0
 295,"MSI 27"" FHD IPS Nvidia G-Sync Gaming Monitor Optix G273",Monitors,139.99,179.99,40.0,Dollars Off,4.6,577
 214,"LG 32"" Class FHD IPS FreeSync Monitor",Monitors,229.99,229.99,0.0,No Discount,4.6,889
-397,"Samsung 27"" Class CF39 Series FHD FreeSync™ Curved Monitor",Monitors,179.99,179.99,0.0,No Discount,4.6,4056
+397,"Samsung 27"" Class CF39 Series FHD FreeSync Curved Monitor",Monitors,179.99,179.99,0.0,No Discount,4.6,4056
 251,"LG UltraGear 49"" Class DQHD Curved Gaming Monitor",Monitors,999.99,999.99,0.0,No Discount,,0
-450,Samsung Odyssey 32” Class G65B Series QHD 240Hz Curved Gaming Monitor ,Monitors,449.99,749.99,300.0,Dollars Off,3.7,6
+450,Samsung Odyssey 32 Class G65B Series QHD 240Hz Curved Gaming Monitor ,Monitors,449.99,749.99,300.0,Dollars Off,3.7,6
 296,"MSI 27"" WQHD 165Hz AMD FreeSync Curved Gaming Monitor ",Monitors,199.99,199.99,0.0,No Discount,4.3,66
-16,Acer 31.5” Class WQHD Curved Gaming Monitor,Monitors,249.99,249.99,0.0,No Discount,4.4,31
+16,Acer 31.5 Class WQHD Curved Gaming Monitor,Monitors,249.99,249.99,0.0,No Discount,4.4,31
 100,"Dell 32"" Class FHD AMD FreeSync Curved Monitor",Monitors,229.99,229.99,0.0,No Discount,4.5,252
-402,"Samsung 34” ViewFinity S65UA UWQHD Curved Monitor, $40 Costco Shop Card Included",Monitors,599.99,599.99,0.0,No Discount,4.0,2
+402,"Samsung 34 ViewFinity S65UA UWQHD Curved Monitor, $40 Costco Shop Card Included",Monitors,599.99,599.99,0.0,No Discount,4.0,2
 249,"LG UltraGear 27"" Class QHD IPS Gaming Monitor ",Monitors,279.99,279.99,0.0,No Discount,4.6,26
 334,"Masingo Smart Karaoke Machine with 15"" Touchscreen Display, WiFi, Speaker & 2 Wireless Microphones - Allegro X8 2.0",Musical Instruments,419.99,419.99,0.0,No Discount,,0
 89,Casio CT-X700 Premium Portable Keyboard Bundle,Musical Instruments,209.99,209.99,0.0,No Discount,4.5,187
@@ -391,18 +391,18 @@ product_id,title,sub_category,price,original_price,discount_amount,discount_type
 357,Panasonic KX-TG994 DECT 6.0 Bluetooth 4-Handset Phone Bundle,Phones & Two-way Radios,89.99,89.99,0.0,No Discount,4.4,3082
 12,AT&T DLP72362 3 Handset Cordless Phone with Connect to Cell ,Phones & Two-way Radios,59.99,59.99,0.0,No Discount,4.2,484
 354,Ooma Telo Air 2 Wireless Wi-Fi Home Phone Service with 1 Cordless Handset,Phones & Two-way Radios,99.99,99.99,0.0,No Discount,4.3,1926
-355,Ooma Telo Air 2 Wireless Wi-Fi Home Phone Service with 1 Cordless Handset – White,Phones & Two-way Radios,99.99,99.99,0.0,No Discount,4.2,324
+355,Ooma Telo Air 2 Wireless Wi-Fi Home Phone Service with 1 Cordless Handset  White,Phones & Two-way Radios,99.99,99.99,0.0,No Discount,4.2,324
 186,"Hisense 100"" - L5G Series - Ultra Short Throw Smart Laser TV Projector with ALR Screen",Projectors,2499.99,2499.99,0.0,Limited Time Price,3.8,63
 188,"Hisense 120"" - L5G Series - Ultra Short Throw Smart Laser TV Projector with ALR Screen",Projectors,2999.99,2999.99,0.0,Limited Time Price,3.8,63
 510,"TP-Link Deco AX5000 Mesh Wi-Fi, 3-pack","Routers, Wifi Extenders & Modems",179.99,249.99,70.0,Dollars Off,4.3,67
 140,"Google Nest Wifi Pro, Wi-Fi 6E, 4-pack","Routers, Wifi Extenders & Modems",369.99,449.99,80.0,Dollars Off,3.7,211
-349,"NETGEAR – Nighthawk AX5400 Wi-Fi 6 Router, One year Advanced Internet Security Included","Routers, Wifi Extenders & Modems",199.99,199.99,0.0,No Discount,4.1,356
+349,"NETGEAR  Nighthawk AX5400 Wi-Fi 6 Router, One year Advanced Internet Security Included","Routers, Wifi Extenders & Modems",199.99,199.99,0.0,No Discount,4.1,356
 511,"TP-Link Deco AXE5300 Wi-Fi 6E Tri-Band Whole-Home Mesh Wi-Fi System, 3-Pack","Routers, Wifi Extenders & Modems",349.99,349.99,0.0,No Discount,4.3,763
 507,TP-Link AX5400 Multi-Gigabit Wi-Fi 6 Router,"Routers, Wifi Extenders & Modems",149.99,149.99,0.0,No Discount,4.1,7
 530,"eero 6 Mesh Wi-Fi System, 4-pack, One Year eero Plus Security Included","Routers, Wifi Extenders & Modems",229.99,229.99,0.0,No Discount,4.0,35
 514,TP-Link Indoor/Outdoor Whole Home Mesh Wi-Fi 6 System,"Routers, Wifi Extenders & Modems",279.99,279.99,0.0,No Discount,4.5,35
 394,"STARLINK Flat High Performance Kit, High-Speed, Low Latency Internet + 2 Months of Service Credit","Routers, Wifi Extenders & Modems",2499.99,2499.99,0.0,No Discount,5.0,2
-350,"NETGEAR – Orbi RBK843S AX6000 Wi-Fi 6 Mesh System, One Year Advanced Cyber Security Included","Routers, Wifi Extenders & Modems",749.99,749.99,0.0,No Discount,4.2,216
+350,"NETGEAR  Orbi RBK843S AX6000 Wi-Fi 6 Mesh System, One Year Advanced Cyber Security Included","Routers, Wifi Extenders & Modems",749.99,749.99,0.0,No Discount,4.2,216
 508,"TP-Link Archer AXE7800 Tri-Band Wi-Fi 6E Multi-Gig Router, 2.5 Gbps Port","Routers, Wifi Extenders & Modems",279.99,279.99,0.0,No Discount,4.4,324
 512,TP-Link Deco BE16000 Quad-Band Mesh Wi-Fi 7 System		,"Routers, Wifi Extenders & Modems",849.99,849.99,0.0,No Discount,3.3,17
 348,NETGEAR - Orbi AX5400 Wi-Fi 6 Mesh System,"Routers, Wifi Extenders & Modems",549.99,549.99,0.0,No Discount,4.1,277
@@ -468,7 +468,7 @@ product_id,title,sub_category,price,original_price,discount_amount,discount_type
 45,Apple Watch SE (2nd Generation) (GPS) Sport Band,Smart Watches,219.99,239.99,20.0,Dollars Off,4.5,125
 47,Apple Watch Series 9 (GPS + Cellular),Smart Watches,489.99,489.99,0.0,No Discount,4.7,170
 46,Apple Watch SE (2nd Generation) (GPS) Sport Loop,Smart Watches,219.99,239.99,20.0,Dollars Off,4.6,72
-50,Apple Watch Series 9 (GPS + Cellular) with Sport Loop,Smart Watches,489.99,489.99,0.0,No Discount,4.4,71
+50,Apple Watch Series9 (GPS + Cellular) with Sport Loop,Smart Watches,489.99,489.99,0.0,No Discount,4.4,71
 443,"Samsung Galaxy Watch 6 Classic 47mm Smartwatch, 2 Fast Chargers Included",Smart Watches,419.99,419.99,0.0,No Discount,5.0,4
 44,Apple Watch SE (2nd Generation) (GPS + Cellular) Sport Loop,Smart Watches,269.99,289.99,20.0,Dollars Off,4.9,8
 134,Fitbit Versa 2 Smartwatch - Black - Additional Band Included,Smart Watches,139.99,139.99,0.0,No Discount,4.4,2568
@@ -618,26 +618,26 @@ product_id,title,sub_category,price,original_price,discount_amount,discount_type
 487,"Sony 98"" Class - X90L Series - 4K UHD LED LCD TV - Allstate 3-Year Protection Plan Bundle Included for 5 Years of Total Coverage*",TVs,7999.99,7999.99,0.0,Limited Time Price,3.0,4
 528,bionik Pro Kit+ for Switch OLED,Video Games & Consoles,19.99,19.99,0.0,No Discount,4.4,14
 490,Sony PlayStation Four $25 Gift Cards Digital Download,Video Games & Consoles,89.99,89.99,0.0,No Discount,4.4,1144
-489,Sony PS5 Marvel’s Spider-Man 2 Bundle,Video Games & Consoles,579.99,579.99,0.0,No Discount,4.9,76
+489,Sony PS5 Marvels Spider-Man 2 Bundle,Video Games & Consoles,579.99,579.99,0.0,No Discount,4.9,76
 352,Nintendo eShop $50 Digital Card ,Video Games & Consoles,44.99,44.99,0.0,No Discount,4.8,3642
 521,Xbox Game Pass Core 12-Month Subscription Digital Download ,Video Games & Consoles,54.99,54.99,0.0,No Discount,4.3,90
 519,Xbox $100 Gift Card Digital Download,Video Games & Consoles,89.99,89.99,0.0,No Discount,4.5,1684
 1,$100 Nintendo eShop Digital Gift Card Multi-Pack (4 X $25),Video Games & Consoles,89.99,89.99,0.0,No Discount,4.5,281
 380,"Roblox $50 Gift Card Digital Download, Includes Exclusive Virtual Item",Video Games & Consoles,44.99,44.99,0.0,No Discount,4.7,1263
 351,Nintendo Switch OLED Bundle,Video Games & Consoles,399.99,399.99,0.0,No Discount,4.8,62
-336,Meta Quest 3 128GB with Asgard’s Wrath 2 Game Bundle,Video Games & Consoles,599.99,599.99,0.0,No Discount,3.7,170
+336,Meta Quest 3 128GB with Asgards Wrath 2 Game Bundle,Video Games & Consoles,599.99,599.99,0.0,No Discount,3.7,170
 381,"Roblox Four $25 Gift Cards Digital Download, Includes Exclusive Virtual Item",Video Games & Consoles,89.99,89.99,0.0,No Discount,4.6,435
 379,"Roblox $100 Gift Card Digital Download, Includes Exclusive Virtual Item",Video Games & Consoles,89.99,89.99,0.0,No Discount,4.7,357
 2,$200 Nintendo eShop Gift Card Multi-Pack (4 X $50),Video Games & Consoles,179.99,179.99,0.0,No Discount,3.6,20
-450,Samsung Odyssey 32” Class G65B Series QHD 240Hz Curved Gaming Monitor ,Video Games & Consoles,449.99,749.99,300.0,Dollars Off,3.7,6
+450,Samsung Odyssey 32 Class G65B Series QHD 240Hz Curved Gaming Monitor ,Video Games & Consoles,449.99,749.99,300.0,Dollars Off,3.7,6
 520,Xbox Four $25 Gift Cards Digital Download,Video Games & Consoles,89.99,89.99,0.0,No Discount,4.3,442
 347,My Arcade Atari Gamestation Pro,Video Games & Consoles,79.99,79.99,0.0,No Discount,3.1,151
 524,Xbox Series X 1TB Console with Additional Controller,Video Games & Consoles,549.99,549.99,0.0,No Discount,4.8,4795
 523,Xbox Series S Starter Bundle,Video Games & Consoles,369.99,369.99,0.0,No Discount,4.7,11
 522,Xbox Game Pass Core 6M Digital Download,Video Games & Consoles,34.99,34.99,0.0,No Discount,3.6,13
 360,PlayStation VR2 Horizon: Call of the Mountain and Charging Station Bundle,Video Games & Consoles,629.99,629.99,0.0,No Discount,3.8,22
-53,"Arcade1Up Infinity Game Table 32”, $100 Game Code Voucher Included",Video Games & Consoles,949.99,949.99,0.0,No Discount,4.0,27
-52,"Arcade1Up Infinity Game Board 18.5”, $25 Game Code Voucher Included",Video Games & Consoles,449.99,449.99,0.0,No Discount,3.9,14
+53,"Arcade1Up Infinity Game Table 32, $100 Game Code Voucher Included",Video Games & Consoles,949.99,949.99,0.0,No Discount,4.0,27
+52,"Arcade1Up Infinity Game Board 18.5, $25 Game Code Voucher Included",Video Games & Consoles,449.99,449.99,0.0,No Discount,3.9,14
 54,Arcade1Up NBA Jam Partycade 3 Games in 1,Video Games & Consoles,199.99,199.99,0.0,No Discount,4.7,12
 72,"Backbone One (Lightning) - PlayStation Edition Mobile Gaming Controller for iPhone, $25 Sony PlayStation Credit Included",Video Games & Consoles,49.97,49.97,0.0,No Discount,3.9,180
 525,Xbox Series X Diablo IV Bundle with Additional Controller,Video Games & Consoles,599.99,599.99,0.0,No Discount,4.7,50
